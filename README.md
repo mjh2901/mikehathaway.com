@@ -1,1 +1,0 @@
-# Type on Strap 🎨
