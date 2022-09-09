@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.extra_rdoc_files        = %w(README.md LICENSE)
   spec.metadata["plugin_type"] = "theme"
 
-  spec.files                   Dir["**/*"].select do |f|.split("\x0").select do |f|
+  spec.files                   Dir["**/*"].select do |f|.split("\x0")
     f.match(%r!^(assets/(js|css|fonts|data)/|_(includes|layouts|sass)/|_data/(icons_builder.yml|language.yml)|(LICENSE|README.md))!i)
   end
 
