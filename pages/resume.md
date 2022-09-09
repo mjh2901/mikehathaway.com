@@ -3,7 +3,6 @@ layout: page
 title: Resume
 permalink: /resume/
 feature-img: "assets/img/feature-img/laptop_feetup.jpg"
-tags: false
 ---
 
 ### CAREER PROFILE
