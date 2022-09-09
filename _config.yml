@@ -3,7 +3,7 @@ baseurl: "/mikehathaway"
 url: "https://mjh2901.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Mike Hathaway's Website                          # site's title
+title: Ideas, Tutorials, Pictures & Code                          # site's title
 description: "Ideas, Tutorials, Pictures & Code"        # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
