@@ -10,5 +10,5 @@ Mike Hathaway currently spends his time at Fremont Union High School District wo
 
 When not commuting you can find Mike and his wife Amy at a Disney park or out adventuring with Digbe their Golden Retriever .
 
-![Foo]({{ '/assets/images/digbe.png' | relative_url }})
+![Foo]({{ '/assets/imag/feature-img/digbe.png' | relative_url }})
  
