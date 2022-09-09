@@ -6,9 +6,9 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Mike Hathaway currently spends his time at Fremont Union High School District working on anything that plugs into something else, and some light carpentry.  When not working on systems, writing documentation or hacking out a bit of code you can find him standing in front of a group of people sharing his pashions and hopefully training them on whatever new challenge they are facing.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+When not commuting you can find Mike and his wife Amy at a Disney park or out adventuring with Digbe their Golden Retriever .
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+![Foo]({{ '/assets/images/digbe.png' | relative_url }})
  
