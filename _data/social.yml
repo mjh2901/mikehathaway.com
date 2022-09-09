@@ -8,9 +8,9 @@ share:
   email: true
   facebook: true
   linkedin: true
-  pinterest: true
-  pocket:
-  reddit: true
-  tumblr: true
-  twitter: true
-  wordpress:
+  pinterest: false
+  pocket: false
+  reddit: false
+  tumblr: false
+  twitter: false
+  wordpress: false
