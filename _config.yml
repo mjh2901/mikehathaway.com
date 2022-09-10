@@ -15,9 +15,12 @@ header_feature_image_responsive: true
 footer_text: Copyright © 2022 Mike Hathaway
 
 # Blog
-excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+excerpt: true                          # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.png              # A bit transparent for color posts.
+paginate: 10
+paginate_path: "blog/page:num"
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 
 # Features
 # More in the _data folder for share buttons, author and language
