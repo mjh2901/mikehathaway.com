@@ -3,8 +3,8 @@ layout: post
 title: "Why Ghost on Github pages"
 excerpt: "Ghost can be a simple way to setup a self hosted blog"
 tags: "Ghost"
-feature-img: "assets/img/ghost.png"
-thumbnail: "assets/img/ghost.png"
+feature-img: "assets/img/feature-img/ghost.png"
+thumbnail: "assets/img/feature-img/ghost.png"
 tags: [Ghost]
 ---
 
@@ -16,7 +16,7 @@ In comes Ghost a full featured CMS with a lot of fancy features.  Ghost has one 
 
 Ghost turns out to be a much better fit for my workflow.  Building a site in ghost alllows me to create web pages and blog entries visually without needing to write markdown, then render and see what it looks like.  Ghost creates good looking websites with very little design needed, or can be completely customized for an exact look and feel.  How far you want to go with customization is completely up to you, there's no right or wrong approach! The majority of people use one of Ghost's built-in themes to get started, and then progress to something more bespoke later on as their site grows.  
 
-![Foo]({{ 'assets/img/posts/ghost_demo.png' | relative_url }})
+![Foo]({{ 'assets/img/feature-img/ghost.png' | relative_url }})
 
 My ghost site is self hosted on a rocky linux server running on my home proxmox server.  The process is build a site in ghost, then use a script to output a static version then upload the site as an update to GitHub.  I ran into a number of web pages and GitHub projects out there dedicated to this process.  Every one of the projects and or tutorials had issues.  There is some abandonware, instructions from 2013 and a myriad of other opinings on the process that are just out of date.  I was finally able to cobble together a working script that can be easily (sort of) be replicated by others.  
 

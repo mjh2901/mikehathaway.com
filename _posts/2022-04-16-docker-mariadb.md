@@ -3,9 +3,9 @@ title: "Docker, MariaDB, phpMyAdmin"
 excerpt: "Install MariaDB and phpMyAdmin using Docker & Portainer"
 collection: "posts"
 header:
-  teaser: /assets/images/docker.jpg
-  og_image: /assets/images/docker.jpg
-  overlay_image: /assets/images/docker.jpg
+  teaser: assets/img/docker.jpg
+  og_image: assets/img/docker.jpg
+  overlay_image: assets/img/docker.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 categories:
   - Blog
@@ -26,7 +26,7 @@ We will go through several steps to create our MySQL / MariaDB environment.  Fir
 
 Step 1:  Log into Portainer, Select Networks then select "+ Add network"
 
-![Foo]({{ '/assets/images/posts/docker/mariadb/sql-1.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/docker/mariadb/sql-1.png' | relative_url }})
 
 Step 2:  Create a bridge network and name it something for our example we are naming the network "Static Bridge"
 
@@ -38,9 +38,9 @@ Set the appropriate gateway
 
 You should need to set nothing else verify and select the blue "Create the network" button at the bottom.
 
-![Foo]({{ '/assets/images/posts/docker/mariadb/sql-2.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/docker/mariadb/sql-2.png' | relative_url }})
 
-![Foo]({{ '/assets/images/posts/docker/mariadb/sql-3.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/docker/mariadb/sql-3.png' | relative_url }})
 
 Step 3:  From your server command line run the following command to install MariaDB.  Be sure to change the root password to the password of your choice.  Also, Change the location of your MariaDB data by changing the "location on your server drive" to the desired storage location.  Depending on your installation you may or may not need to use the sudo command.
 
@@ -52,17 +52,17 @@ sudo docker run -d --name mariadb \
 mariadb
 ```
 
-![Foo]({{ '/assets/images/posts/docker/mariadb/sql-4.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/docker/mariadb/sql-4.png' | relative_url }})
 
 You should now have a MariaDB server container running in docker.
 
-![Foo]({{ '/assets/images/posts/docker/mariadb/sql-5.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/docker/mariadb/sql-5.png' | relative_url }})
 
 Step 4:  Move your MariaDB server from the bind network to your Static Bind network.  This could be done in the docker run command but for this article, we will do it manually in Portainer.
 
 From Portainer select your MariaDB container by its name.  From the resulting dialog select "Duplicate/Edit"
 
-![Foo]({{ '/assets/images/posts/docker/mariadb/sql-6.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/docker/mariadb/sql-6.png' | relative_url }})
 
 Step 5:  Under Advanced container settings select "Network".  You are now going to set a static IP for your MariaDB server.  By setting a static IP whenever the server reboots it will have a consistent address instead of risking Dockers dhcp issuing a different address.  When running something like watcher that automatically updates and reboots containers this will prevent your database setup from "breaking"
 
@@ -72,19 +72,19 @@ Network = your static bridge network
 Hostname = your containers name (this is optional)
 IPv4 Address = an address in the static bridge network, I like to use .2 for the server and .3 for phpMyAdmin which we will be installing later.
 
-![Foo]({{ '/assets/images/posts/docker/mariadb/sql-7.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/docker/mariadb/sql-7.png' | relative_url }})
 
 Step 5:  Select "Deploy Container". Which is above the advanced container settings and not below.
 
-![Foo]({{ '/assets/images/posts/docker/mariadb/sql-8.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/docker/mariadb/sql-8.png' | relative_url }})
 
 Step 6: Select "Replace" when asked, "Are you sure?".  This will recreate your container to match your new settings.
 
-![Foo]({{ '/assets/images/posts/docker/mariadb/sql-9.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/docker/mariadb/sql-9.png' | relative_url }})
 
 Note:  The MariaDB container now has a static IP address on a different subnet from the other Docker Containers.  Any container we create that needs to use MariaDB will need to also be on the Static Bridge network/subnet with the MariaDB Server.
 
-![Foo]({{ '/assets/images/posts/docker/mariadb/sql-10.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/docker/mariadb/sql-10.png' | relative_url }})
 
 Now to install phpMyAdmin which will provide a GUI for managing the MariaDB server.  
 
@@ -100,17 +100,17 @@ sudo docker run -d --name phpmyadmin \
 phpmyadmin
 ```
 
-![Foo]({{ '/assets/images/posts/docker/mariadb/sql-11.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/docker/mariadb/sql-11.png' | relative_url }})
 
 Step 8:  Just like with the MariaDB server above edit the network of the phpmyadmin container to reflect your static bridge network.
 
-![Foo]({{ '/assets/images/posts/docker/mariadb/sql-12.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/docker/mariadb/sql-12.png' | relative_url }})
 
 Step 9:  Launch your web browser and navigate to the IP address and port of your Docker & phpMyAdmin server.  Log in using the root account and password you set for you MariaDB server.
 
-![Foo]({{ '/assets/images/posts/docker/mariadb/sql-13.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/docker/mariadb/sql-13.png' | relative_url }})
 
 You now have a MariaDB server and a GUI system to manage the server.
 
-![Foo]({{ '/assets/images/posts/docker/mariadb/sql-14.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/docker/mariadb/sql-14.png' | relative_url }})
 

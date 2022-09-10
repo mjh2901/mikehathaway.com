@@ -4,9 +4,9 @@ excerpt: "No one wants a database."
 collection: "posts"
 permalink: /post/no_more_ghost/
 header:
-  teaser: /assets/images/ghost.png
-  og_image: /assets/images/ghost.png
-  overlay_image: /assets/images/ghost.png
+  teaser: assets/img/ghost.png
+  og_image: assets/img/ghost.png
+  overlay_image: assets/img/ghost.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 # actions:
@@ -26,7 +26,7 @@ The Ghost version this site was based on was Ghost in Production mode using SQli
 
 Lets light a match
 
-![Foo]({{ '/assets/images/match.jpg' | relative_url }})
+![Foo]({{ 'assets/img/match.jpg' | relative_url }})
 
 So Why swtich to Jekyll?
 

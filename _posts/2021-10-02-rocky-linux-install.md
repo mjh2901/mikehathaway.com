@@ -1,17 +1,10 @@
 ---
-title: "Rocky Linux: Install"
-excerpt: "Best practices for a new install"
-collection: "posts"
-header:
-  teaser: /assets/images/rocky_mountains.jpg
-  og_image: /assets/images/rocky_mountains.jpg
-  overlay_image: /assets/rocky_mountains.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-categories:
-  - Blog
-tags:
-  - Ghost
-# last_modified_at: 2021-10-02T16:20:02-05:00
+layout: post
+title: "Rocky Linux: Instal"
+excerpt: "Ghost can be a simple way to setup a self hosted blog"
+feature-img: "assets/img/feature-img/rocky_mountains.jpg"
+thumbnail: "assets/img/feature-img/rocky_mountains.jpg"
+tags: [Rocky]
 ---
 
 ## How to install Rocky Linux.
@@ -27,43 +20,43 @@ How To:  We are going to start with a Virtual machine on a proxmox server but yo
 
 Select Install Rocky Linux 8
 
-![Foo]({{ '/assets/images/posts/rocky-linux/install/rocky-install-1.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/rocky-linux/install/rocky-install-1.png' | relative_url }})
 
 Select your preferred language
 
-![Foo]({{ '/assets/images/posts/rocky-linux/install/rocky-install-2.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/rocky-linux/install/rocky-install-2.png' | relative_url }})
 
 There are several sections that should be configured prior to OS install vs after.  We are going to create a user, Choose the Installation Destination, Set the Network & Host Name and Set the Date & Time.
 
-![Foo]({{ '/assets/images/posts/rocky-linux/install/rocky-install-3.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/rocky-linux/install/rocky-install-3.png' | relative_url }})
 
 Select Time & Date, Choose your time zone and verify the time and date are correct.
 
-![Foo]({{ '/assets/images/posts/rocky-linux/install/rocky-install-4.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/rocky-linux/install/rocky-install-4.png' | relative_url }})
 
 Select Installation Destination verify your hard drive is present and the correct size.  For this tutorial we have one 64GB drive and will be using automatic Storage Configuration, I will not be using Encryption since as a server we need this to boot without entering a password.  If you are setting up a laptop or desktop you may want to encrypt your disk at this point.
 
-![Foo]({{ '/assets/images/posts/rocky-linux/install/rocky-install-5.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/rocky-linux/install/rocky-install-5.png' | relative_url }})
 
 Select Network & Host Name.  Toggle your network to "On" this will activate your network card and set the system to DHCP.  I will be setting a fixed IP address, and setting the Host Name.
 
-![Foo]({{ '/assets/images/posts/rocky-linux/install/rocky-install-6.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/rocky-linux/install/rocky-install-6.png' | relative_url }})
 
 Select Configure, Select the IPv4 Settings Tab and select "Add" to enter your IP settings.  Also enter your DNS servers here.
 
-![Foo]({{ '/assets/images/posts/rocky-linux/install/rocky-install-7.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/rocky-linux/install/rocky-install-7.png' | relative_url }})
 
 Select User creation and setup your admin account.  We are not setting up the root account, instead we are creating an admin account with "Sudo" privileges so be sure to check "Make this user administrator"
 
-![Foo]({{ '/assets/images/posts/rocky-linux/install/rocky-install-8.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/rocky-linux/install/rocky-install-8.png' | relative_url }})
 
 Select "Begin Installation"
 
-![Foo]({{ '/assets/images/posts/rocky-linux/install/rocky-install-9.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/rocky-linux/install/rocky-install-9.png' | relative_url }})
 
 When the install is finished reboot your system and log in
 
-![Foo]({{ '/assets/images/posts/rocky-linux/install/rocky-install-10.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/rocky-linux/install/rocky-install-10.png' | relative_url }})
 
 Once logged in run the following commands.  This will setup the cockpit management web page.  For us that page is https://192.168.1.172:9090.  The second command installs semanage which allow the SELinux management console to operate in cockpit.
 
@@ -77,11 +70,11 @@ sudo yum install setroubleshoot
 
 Now open your web browser goto cockpit and login
 
-![Foo]({{ '/assets/images/posts/rocky-linux/install/rocky-install-11.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/rocky-linux/install/rocky-install-11.png' | relative_url }})
 
 Cockpit allows you to view and manage your linux installation.  For now the main feature we are going to take advantage of is the termial.  Select the "Terminal" option on the bottom of the right hand column.
 
-![Foo]({{ '/assets/images/posts/rocky-linux/install/rocky-install-12.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/rocky-linux/install/rocky-install-12.png' | relative_url }})
 
 We are going to run a final command for this tutorial.  DNF update which will update Rocky Linux and all installed software to the latest stable versions.
 
@@ -91,7 +84,7 @@ sudo dnf update
 
 Be sure to type y when asked "Is this ok" you will be asked twice, once to download the updates and a final time to install them.
 
-![Foo]({{ '/assets/images/posts/rocky-linux/install/rocky-install-13.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/rocky-linux/install/rocky-install-13.png' | relative_url }})
 
 Finish up with a quick reboot to finish installing all the updates including SE Manage.
 

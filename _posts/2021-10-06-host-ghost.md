@@ -3,9 +3,9 @@ title: "Host your ghost site on GitHub"
 excerpt: "Ghost can be a simple way build a static website"
 collection: "posts"
 header:
-  teaser: /assets/images/ghost.png
-  og_image: /assets/images/ghost.png
-  overlay_image: /assets/images/ghost.png
+  teaser: assets/img/ghost.png
+  og_image: assets/img/ghost.png
+  overlay_image: assets/img/ghost.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 categories:
   - Blog
@@ -41,7 +41,7 @@ sudo dnf module install nodejs:14
 node -v
 ```
 
-![Foo]({{ '/assets/images/posts/ghost/ghost-install-1.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/ghost/ghost-install-1.png' | relative_url }})
 
 2. Setup Ghost & Ghost Static Site Generator
 
@@ -52,7 +52,7 @@ sudo npm install ghost-cli@latest -g
 sudo npm install -g ghost-static-site-generator
 ```
 
-![Foo]({{ '/assets/images/posts/ghost/ghost-install-2.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/ghost/ghost-install-2.png' | relative_url }})
 
 3. Setup and start a ghost website
 
@@ -64,7 +64,7 @@ cd mysite.ghost
 ghost install local
 ```
 
-![Foo]({{ '/assets/images/posts/ghost/ghost-install-3.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/ghost/ghost-install-3.png' | relative_url }})
 
 There are two things you may need to do.  First is open port 2368 on your firewall, and second is edit the config.development.json and replace the url https://localhost:2368 with the servers ip address http://192.168.1.100:2368.  Make the same change to the host but just use the ip address "localhost" to the servers ip address "192.168.1.100"
 
@@ -75,11 +75,11 @@ ghost stop
 ghost start
 ```
 
-![Foo]({{ '/assets/images/posts/ghost/ghost-install-4.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/ghost/ghost-install-4.png' | relative_url }})
 
 You now have working ghost site.  Go to the the ip address and add /ghost to the end to get to the admin interface (http://192.168.1.100:2368/ghost)  Create your accounta and let ghost setup the initial website.
 
-![Foo]({{ '/assets/images/posts/ghosts/ghost-install-5.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/ghosts/ghost-install-5.png' | relative_url }})
 
 4. Setup github
 
@@ -94,23 +94,23 @@ From your github.com account create a new repo "username.github.io"
 
 In your new repo go to "Settings"
 
-![Foo]({{ '/assets/images/posts/ghost/ghost-install-6.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/ghost/ghost-install-6.png' | relative_url }})
 
 Select "Pages"
 
-![Foo]({{ '/assets/images/posts/ghost/ghost-install-7.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/ghost/ghost-install-7.png' | relative_url }})
 
 Set the source to "master"
 
-![Foo]({{ '/assets/images/posts/ghost/ghost-install-8.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/ghost/ghost-install-8.png' | relative_url }})
 
 Save the settings to setup the website publishing, note it can take 30 minutes for the site to become live.  Since we have not actually uploaded any pages yet this should not be a problem.
 
-![Foo]({{ '/assets/images/posts/ghost/ghost-install-9.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/ghost/ghost-install-9.png' | relative_url }})
 
 Note the url of your new website (Your site is ready to be publshed at https://username.github.io) You will need this address for modifying the script to set all the links to the correct url.
 
-![Foo]({{ '/assets/images/posts/ghost/ghost-install-10.png' | relative_url }})
+![Foo]({{ 'assets/img/posts/ghost/ghost-install-10.png' | relative_url }})
 
 Now on your server from inside the github directory you just created setup your git project and connect it to github.  Be sure to replace user and repo.git with your git username and your repo name.
 
