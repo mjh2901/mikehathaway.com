@@ -4,6 +4,7 @@ title: "Rocky Linux: Docker"
 excerpt: "Deploy Docker on Rocky Linux and add a gui manager"
 feature-img: "assets/img/feature-img/rocky_mountains.jpg"
 thumbnail: "assets/img/feature-img/rocky_mountains.jpg"
+bootstrap: true
 tags: [Rocky, Docker]
 ---
 ### Build the ultimate Docker setup!

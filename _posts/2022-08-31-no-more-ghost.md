@@ -4,6 +4,7 @@ title: "From Ghost to Jekyll"
 excerpt: "No one wants a database"
 feature-img: "assets/img/feature-img/ghost.png"
 thumbnail: "assets/img/feature-img/ghost.png"
+bootstrap: true
 tags: [Ghost]
 ---
 I have a bad habbit of switching the backends of my website.  Hey this is IT and development so trying new things is just part of the process.  When I developed the Ghost version of this website, I wrote a script to publish the site on GitHub pages.  I thought I was done.  I would use ghost from this point on... unless Ghost did something earth shatteringly bad.  Well Ghost did.

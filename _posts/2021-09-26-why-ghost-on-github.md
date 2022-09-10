@@ -4,6 +4,7 @@ title: "Why Ghost on Github pages"
 excerpt: "Ghost can be a simple way to setup a self hosted blog"
 feature-img: "assets/img/feature-img/ghost.png"
 thumbnail: "assets/img/feature-img/ghost.png"
+bootstrap: true
 tags: [Ghost]
 ---
 

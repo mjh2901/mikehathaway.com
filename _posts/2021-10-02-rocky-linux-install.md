@@ -4,6 +4,7 @@ title: "Rocky Linux: Install"
 excerpt: "Ghost can be a simple way to setup a self hosted blog"
 feature-img: "assets/img/feature-img/rocky_mountains.jpg"
 thumbnail: "assets/img/feature-img/rocky_mountains.jpg"
+bootstrap: true
 tags: [Rocky]
 ---
 
