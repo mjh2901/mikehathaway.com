@@ -1,25 +1,11 @@
 ---
+layout: post
 title: "From Ghost to Jekyll"
-excerpt: "No one wants a database."
-collection: "posts"
-permalink: /post/no_more_ghost/
-header:
-  teaser: assets/img/ghost.png
-  og_image: assets/img/ghost.png
-  overlay_image: assets/img/ghost.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-# caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-# actions:
-#  - label: "More Info"
-#      url: "https://unsplash.com"
-categories:
-  - Blog
-tags:
-  - Ghost
-  - Jekyll
-# last_modified_at: 2022-08-31T16:20:02-05:00
+excerpt: "No one wants a database"
+feature-img: "assets/img/feature-img/ghost.png"
+thumbnail: "assets/img/feature-img/ghost.png"
+tags: [Ghost]
 ---
-
 I have a bad habbit of switching the backends of my website.  Hey this is IT and development so trying new things is just part of the process.  When I developed the Ghost version of this website, I wrote a script to publish the site on GitHub pages.  I thought I was done.  I would use ghost from this point on... unless Ghost did something earth shatteringly bad.  Well Ghost did.
 
 The Ghost version this site was based on was Ghost in Production mode using SQlite.  Production Ghost lets you choose to use a flat file, or MySQL/MariaDB database I chose SQlite a flat file database.  The key reason for this is for such a small site there is no need for a robust sql server and its one less thing to wory about.  Over time this started to change.  First Ghost production started to require a full SQL datase, so I switched it develop mode.  Now more recently they have removed the ability to use a flat file database all together.  This leaves me in a lurch, my dev site no longer functions after an automated docker update.  While Yes I know its my fault I have to figure out what to do.  I can reinstall an older version of Ghost then export the site, install a new version of ghost and data base server and import the site.... Or I can burn it all and try something different.

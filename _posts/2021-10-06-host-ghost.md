@@ -1,17 +1,10 @@
 ---
+layout: post
 title: "Host your ghost site on GitHub"
 excerpt: "Ghost can be a simple way build a static website"
-collection: "posts"
-header:
-  teaser: assets/img/ghost.png
-  og_image: assets/img/ghost.png
-  overlay_image: assets/img/ghost.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-categories:
-  - Blog
-tags:
-  - Ghost
-# last_modified_at: 2021-09-26T16:20:02-05:00
+feature-img: "assets/img/feature-img/ghost.png"
+thumbnail: "assets/img/feature-img/ghost.png"
+tags: [Ghost]
 ---
 
 ### Let GitHub pay your hosting bill
