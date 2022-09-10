@@ -13,7 +13,7 @@ The Ghost version this site was based on was Ghost in Production mode using SQli
 
 Lets light a match
 
-![Foo]({{ 'assets/img/match.jpg' | relative_url }})
+![Foo]({{ 'assets/img/posts/ghost/match.jpg' | relative_url }})
 
 So Why swtich to Jekyll?
 
