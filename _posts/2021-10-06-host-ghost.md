@@ -5,7 +5,7 @@ excerpt: "Ghost can be a simple way build a static website"
 feature-img: "assets/img/feature-img/ghost.png"
 thumbnail: "assets/img/feature-img/ghost.png"
 bootstrap: true
-tags: [Ghost]
+tags: [ghost]
 ---
 
 ### Let GitHub pay your hosting bill

@@ -5,7 +5,7 @@ excerpt: "Install MariaDB and phpMyAdmin using Docker & Portainer"
 feature-img: "assets/img/feature-img/docker.jpg"
 thumbnail: "assets/img/feature-img/docker.jpg"
 bootstrap: true
-tags: [Docker]
+tags: [docker]
 ---
 ### Install MariaDB and phpMyAdmin using Docker & Portainer
 

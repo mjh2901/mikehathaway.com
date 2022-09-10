@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Markdown and HTML
+title: Rocky Linux Tutorials
 feature-img: "assets/img/feature-img/rocky_mountains.jpg"
 thumbnail: "assets/img/feature-img/rocky_mountains.jpg"
-tags: [Rocky]
+tags: [rocky]
 hide: true
 ---
