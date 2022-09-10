@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-@ baseurl: "/mikehathaway"
+# baseurl: "/mikehathaway"
 url: "https://mikehathaway.com"
 
 # THEME-SPECIFIC CONFIGURATION
