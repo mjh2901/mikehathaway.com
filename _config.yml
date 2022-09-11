@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-# baseurl: "/mikehathaway"
+baseurl: ""
 url: "https://mikehathaway.com"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -14,7 +14,7 @@ header_feature_image: assets/img/feature-img/yosemit_cover.png
 header_feature_image_responsive: true
 footer_text: Copyright © 2022 Mike Hathaway
 
-# Blog
+# Blog Configuration
 excerpt: true                          # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.png              # A bit transparent for color posts.
