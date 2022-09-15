@@ -5,7 +5,7 @@ url: "https://mikehathaway.com"
 # THEME-SPECIFIC CONFIGURATION
 title: Ideas, Tutorials, Pictures & Code                          # site's title
 description: "Ideas, Tutorials, Pictures & Code"        # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+avatar: assets/img/mh_logo.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
