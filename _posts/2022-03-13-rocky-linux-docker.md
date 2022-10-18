@@ -43,7 +43,7 @@ sudo dnf update
 Install docker
 
 ```
-sudo dnf install -y docker-ce docker-ce-cli containerd.io
+sudo dnf install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
 ```
 
 ![Foo]({{ 'assets/img/posts/rocky-linux/docker/rocky-docker-4.png' | relative_url }})
