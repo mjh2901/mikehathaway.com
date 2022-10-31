@@ -1,18 +1,23 @@
 ---
 layout: post
-title: "From Ghost to Jekyll"
-excerpt: "No one wants a database"
+title: "So you want to wire your home"
+excerpt: "A primer for building a physical hom network"
 feature-img: "assets/img/feature-img/ghost.png"
 thumbnail: "assets/img/feature-img/ghost.png"
 bootstrap: true
 tags: [ghost]
 visible: 0
 ---
-I have a bad habbit of switching the backends of my website.  Hey this is IT and development so trying new things is just part of the process.  When I developed the Ghost version of this website, I wrote a script to publish the site on GitHub pages.  I thought I was done.  I would use ghost from this point on... unless Ghost did something earth shatteringly bad.  Well Ghost did.
+You have moved into a new house, are starting a major renovation or are starting a home boild from scratch.  What shoul you do for a network.
 
-The Ghost version this site was based on was Ghost in Production mode using SQlite.  Production Ghost lets you choose to use a flat file, or MySQL/MariaDB database I chose SQlite a flat file database.  The key reason for this is for such a small site there is no need for a robust sql server and its one less thing to wory about.  Over time this started to change.  First Ghost production started to require a full SQL datase, so I switched it develop mode.  Now more recently they have removed the ability to use a flat file database all together.  This leaves me in a lurch, my dev site no longer functions after an automated docker update.  While Yes I know its my fault I have to figure out what to do.  I can reinstall an older version of Ghost then export the site, install a new version of ghost and data base server and import the site.... Or I can burn it all and try something different.
+One of the most common questions on the Reddit r/homenetwork forum is I am moving into, building or renovatinga  place what should I do for the network.  The question gets a lot of great answers, but reddit does not provide a good forum for a how to build a network guide.  This article is meant to be a starting point for buildeing a network.  We will go through some basics of a network without writing a book.
 
-Lets light a match
+So lets get started
+
+Assumptions:
+   We are assuming you want to do more for your home network than turn on the Wifi feature of your ISP's provided router.  
+
+
 
 ![Foo]({{ 'assets/img/posts/ghost/match.jpg' | relative_url }})
 
