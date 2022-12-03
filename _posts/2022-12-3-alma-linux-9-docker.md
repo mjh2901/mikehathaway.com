@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alma Linuix: Docker"
+title: "Alma Linux: Docker"
 excerpt: "Deploy Docker on Alma Linux 9.0 and add a gui manager"
 feature-img: "assets/img/feature-img/rocky_mountains.jpg"
 thumbnail: "assets/img/feature-img/rocky_mountains.jpg"
