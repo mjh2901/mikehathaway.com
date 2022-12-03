@@ -9,7 +9,7 @@ tags: [alma, rocky, docker]
 ---
 ### Build the ultimate Docker setup!
 
-This is an update to my post on 3-13-2022, the original article was based on Rocky Linux 8.5.  There have been changes to the OS since then.  First I switched to Alma Linux which is basically just like rocky with a different organization behind it.  Second ther is now some default docker software in teh 9.0 version of Alma and Rockey linux that nececetates removing software prior to install.  I decided to repost this as a new tutorial rather than update the old.
+This is an update to my post on 3-13-2022, the original article was based on Rocky Linux 8.5.  There have been changes to the OS since then.  First I switched to Alma Linux which is basically just like rocky with a different organization behind it.  Second there is now some default docker software in the 9.0 version of Alma and Rockey linux that nececetates removing software prior to install.  I decided to repost this as a new tutorial rather than update the old.
 
 We are going to take a vanila Alma Linux 9 server and install Docker.  We are also going to add a web front end to manage docker known as Portainer.  Finally to we are going to setup our docker containers to automatically update themselves with a program called WatchTower.  Once finished you will have an easy to manage Docker system that updates all of your containers automatically.
 
