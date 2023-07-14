@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "So you want to wire your home"
-excerpt: "A primer for building a physical hom network"
+excerpt: "A primer for building a physical home network"
 feature-img: "assets/img/feature-img/ghost.png"
 thumbnail: "assets/img/feature-img/ghost.png"
 bootstrap: true
 tags: [ghost]
-visible: 0
+visible: 1
 ---
 You have moved into a new house, are starting a major renovation or are starting a home boild from scratch.  What shoul you do for a network.
 
