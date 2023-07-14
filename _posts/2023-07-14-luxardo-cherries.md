@@ -42,7 +42,7 @@ Step 5:
 Remove from heat and allow to cool until mixture is warm but not hot enough to burn skin
 
 Step 6:
-Stir in Luxardo Maraschine Liqueur (Or cheapter marachino liqueur depending on if and who you are gifting the cherries to)
+Stir in Luxardo Maraschino Liqueur (Or cheapter marachino liqueur depending on if and who you are gifting the cherries to)
 
 Step 7:
 Place mixture into a canning jar, seel and place in refergerator for up to a year
