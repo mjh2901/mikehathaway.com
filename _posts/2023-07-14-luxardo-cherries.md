@@ -9,7 +9,7 @@ tags: [recipe]
 ---
 ### Make you own Luxardo Cherries!
 
-For those of us that enjoy an adult beveries, the difference between day drinking and enjoying a sofisticated adult beverage is the accessories.  The Luxardo Cherrie is basically a cherrie preserved with Luxardo Liqueure.  They are extremely expensive in the store and fairly inexpenisve to produce yourself and the reults are much better than the jared version. espeically if you have access to fresh California cherries.
+For those of us that enjoy an adult beverages, the difference between day drinking and enjoying a sofisticated adult beverage is the accessories.  The Luxardo Cherrie is basically a cherrie preserved with Luxardo Liqueure.  They are extremely expensive in the store and fairly inexpenisve to produce yourself and the reults are much better than the jared version. espeically if you have access to fresh California cherries.
 
 
 ```
