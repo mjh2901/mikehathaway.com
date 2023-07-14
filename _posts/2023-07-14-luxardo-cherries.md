@@ -21,7 +21,7 @@ Ingrediants:
 joice of 1 lemon
 1/2 cup water
 3-4 cups fesh cherries, stems removed and pitted
-1 cup Luxardo Maraschino Liquer
+1 cup Luxardo Maraschino Liqueur
 1 pinch freshly ground nutmeg
 ```
 
