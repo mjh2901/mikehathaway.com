@@ -13,7 +13,7 @@ For those of us that enjoy an adult beverages, the difference between day drinki
 
 
 ```
-Ingrediants:
+Ingredients:
 
 1/2 cup sugar
 1/2 teaspoon mexican vanilla extract
