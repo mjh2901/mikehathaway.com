@@ -9,11 +9,12 @@ tags: [recipe]
 ---
 ### Make you own Luxardo Cherries!
 
-For those of us that enjoy an adult beveries, the difference between day drinking and enjoying a sofisticated adult beverage is the accessories.  The Luxardo Cherries is basically a cherrie preserved with Luxardo Liqure.  They are extremely expensive in the store and fairly in expensive to produce yourself and the reults are much better than jared version, espeically if you have access to fresh cherries.
+For those of us that enjoy an adult beveries, the difference between day drinking and enjoying a sofisticated adult beverage is the accessories.  The Luxardo Cherrie is basically a cherrie preserved with Luxardo Liqueure.  They are extremely expensive in the store and fairly inexpenisve to produce yourself and the reults are much better than the jared version. espeically if you have access to fresh California cherries.
 
 
 ```
-Ingrediants
+Ingrediants:
+
 1/2 cup sugar
 1/2 teaspoon mexican vanilla extract
 1 cinnamon stick
