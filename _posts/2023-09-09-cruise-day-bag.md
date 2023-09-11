@@ -21,11 +21,14 @@ My bag setup has several staples, and I change items depending on the day.  For 
 
 My starting point is the bag.  There is the perfect bag for everyone, and what I like differs from what you want.  So here are the basics.  I am sticking with something smaller than a backpack and larger than a purse.  This bag is not intended to carry your clothing or a towel.  If you need a towel or change of clothes, use a second bag just for that.  If the bag is two large, it gets left because it's too much of a hassle, and if it is too small, it's stuffed and hard to find items in, or you wind up leaving things behind and regretting them later.
 
+Generally only one person in a group needs this bag, others can haul swimsuits, towels, cover ups, water shoes and whatever other clothing your excursion specifically needs.  If the excursion is shopping or hiking everyone else should have their own hydration and phone/camera.  My wife generally only caries a wallet off the ship and it goes in my bag.  
+
 
 ![[Day Bag](https://www.amazon.com/Tactical-Military-Shoulder-Backpack-Everyday/dp/B0BRR6N3TY/ref=sr_1_7?crid=OM3HI3MS7KNR&keywords=tactical+diaper+bag&qid=1694400020&sprefix=tactical+diaper%2Caps%2C159&sr=8-7)]({{site.baseurl}}/assets/img/posts/travel/daybag.jpg)
 
 Whats in the bag
 
+({{site.baseurl}}/assets/img/posts/travel/tumbler.png)
 ## Hydration
 
 I carry a 26 oz Yeti Rambler with the straw cap.  Its a little larger than a normal water bottle but once filled with ice stays cold all day.  I like to fill mine completely with ice in the morning then add water right before stepping off the ship.  I attach the bottle with a [Molle bottle holder](https://www.amazon.com/WICKTICK-Adjustable-Tactical-Outdoor-Backpack/dp/B0C4KM31CZ/ref=sr_1_54?crid=2MXY3HGIXG51Z&keywords=tactical%2Bbottle%2Bholder&qid=1694402561&sprefix=tactical%2Bbottle%2Bholder%2Caps%2C186&sr=8-54&th=1).
