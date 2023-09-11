@@ -59,34 +59,34 @@ When on ship you need nothing, but its nice to have somthing just in case on tho
 - Sweatener Packets many locations just have sugar.
 
 
+## First Aid
+Better to have it and not need than to need it and not have it.  You can fit all these items in a zip loc sandwich bag.
 
-USB-C to phone
-USB-C to USB-C
-USB to Micro USB
-Battery
+I keep pills in a little [alumunum screw top container](https://www.amazon.com/Hulless-Aluminum-Refillable-Containers-Container/dp/B072MC3K86/ref=sr_1_2?crid=3JUWN1483R5KW&keywords=small+aluminum+tins+with+screw+lids&qid=1694406204&sprefix=small+aluminum+tins+with+screw+lids%2Caps%2C152&sr=8-2)
+- Dramamine 
+- Pain Releaver (I cary a Aleve and Advil or Naproxin and Ibuprofin)
+- Pseudoephedrine (cruies bing you in contact with plants you never new you where alergic to)
+- Pepto Bismol Chews (The jellybean form of pepto, its completely brilliant)
+- Talcom Powder (lots of walking a little bit to releave chafing really helps)
+- Tripple antibiotic ointment
+- Band Aids
+- Sterile gauze pads
+- Disposable exam gloves
 
-Eating and drinking
-flavor water packets
-backup food bars (cary what you do not like)
-Montreal Steak Seasoning
-Whine bottle opener
+## Personal Hygene
+- Comb
+- Chapstick
+- Tishues
+- [Compressed Towels](https://www.amazon.com/gp/product/B0741519LR/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1) (these things are awsome, get a bunch carry a few)
+
+## Other
+- Caribeaners
+- Hat
+- Sunglasses
 
 
-
-First Aid Kit
-Tooth Brush, Paste, Dentle Floss
-Talcom Powder
-Chapstick
-Comb
-Tissues
-Inflatale Cloth
-Aleave, Asprin, Tylonal
-Dramamine
-Sudafed
-
-Compressed Towel
 ## What not to pack
-This is a new section specific for cruises... and Disneyland.  There are items I cary at all times that I make sure I remove before traveling.  Double check for stuff like this, you dont want to dump something that has meaning to you at a security check point
+This is a new section specific for cruises... and Disneyland.  There are items I cary at all times that I make sure I remove before traveling.  Double check for stuff like this, you dont want to dump something that has meaning to you at a security check point.
 
 - Pocket Knife (this is why I cary a seperate bottle opener)
 - Screw Driver
