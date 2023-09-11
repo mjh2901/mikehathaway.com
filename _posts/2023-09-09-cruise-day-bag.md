@@ -65,9 +65,7 @@ When on ship you need nothing, but its nice to have somthing just in case on tho
 
 
 ## First Aid
-Better to have it and not need than to need it and not have it.  You can fit all these items in a zip loc sandwich bag.
-
-I keep pills in a little [alumunum screw top container](https://www.amazon.com/Hulless-Aluminum-Refillable-Containers-Container/dp/B072MC3K86/ref=sr_1_2?crid=3JUWN1483R5KW&keywords=small+aluminum+tins+with+screw+lids&qid=1694406204&sprefix=small+aluminum+tins+with+screw+lids%2Caps%2C152&sr=8-2)
+Better to have it and not need than to need it and not have it.  You can fit all these items in a zip loc sandwich bag.  I keep pills in a little [alumunum screw top container](https://www.amazon.com/Hulless-Aluminum-Refillable-Containers-Container/dp/B072MC3K86/ref=sr_1_2?crid=3JUWN1483R5KW&keywords=small+aluminum+tins+with+screw+lids&qid=1694406204&sprefix=small+aluminum+tins+with+screw+lids%2Caps%2C152&sr=8-2)
 - Dramamine 
 - Pain Releaver (I cary a Aleve and Advil or Naproxin and Ibuprofin)
 - Pseudoephedrine (cruises bring you in contact with plants you never new you where alergic to)
