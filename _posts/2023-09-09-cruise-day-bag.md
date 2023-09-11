@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "My Cruise Excursion Bag"
-excerpt: "The essentials for wandering anywhere a ship docks"
-feature-img: "assets/img/feature-img/serenadeoftheseas.jpg"
-thumbnail: "assets/img/feature-img/serenadeoftheseas.jpg"
+title: My Cruise Excursion Bag
+excerpt: The essentials for wandering anywhere a ship docks
+feature-img: assets/img/feature-img/serenadeoftheseas.jpg
+thumbnail: assets/img/feature-img/serenadeoftheseas.jpg
 bootstrap: true
-tags: [packing, travel, bag]
+tags:
+  - packing
+  - travel
+  - bag
+published: true
 ---
 ### The Ultimate Excursion / Day trip bag!
 
@@ -19,9 +23,7 @@ My starting point is the bag.  For every person there is the perfect bag, and wh
 
 My bag is a Tactical Sling Bag, very military. I have given one to my my Brother in law and each of his boys for day tripping.  I have seen this bag described on amazon as "Dads Diaper Bag" or the perfect every day gun bag.  My wife laughs at it because where the gun goes is padded and perfect for my ipad.  Whats important is its smaller than a full backup yet able to cary everything I need.  This is also my under the seat cary on for flights.  
 
-![Foo]({{ 'assets/img/posts/travel/daybag.jpg' | relative_url }})
-
-https://www.amazon.com/Tactical-Military-Shoulder-Backpack-Everyday/dp/B0BRR6N3TY/ref=sr_1_7?crid=OM3HI3MS7KNR&keywords=tactical+diaper+bag&qid=1694400020&sprefix=tactical+diaper%2Caps%2C159&sr=8-7
+![[Day Bag](https://www.amazon.com/Tactical-Military-Shoulder-Backpack-Everyday/dp/B0BRR6N3TY/ref=sr_1_7?crid=OM3HI3MS7KNR&keywords=tactical+diaper+bag&qid=1694400020&sprefix=tactical+diaper%2Caps%2C159&sr=8-7)]({{site.baseurl}}/_posts/daybag.jpg)
 
 Whats in the bag
 
@@ -53,5 +55,3 @@ Dramamine
 Sudafed
 
 Compressed Towel
-
-
