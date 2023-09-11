@@ -36,8 +36,28 @@ If you want to go cheap you can [silicon bottle holders](https://www.amazon.com/
 
 ## Technology
 - Phone
-- External Battery Charging Pack
+- External Battery Charging Pack (Phones do not last on trips, running the camera drains the battery at a high rate.  Phones with a battery that is OK for the day seem to run out before the excursion ends.  
 - Phone charging cable
+- Headphones (When on ship, I leave them in the cabin when on an excursion)
+
+## Wallet
+- ID (Drivers License or Passport card)
+- SeaPass required to get back on the ship
+- Excursion credit card (I use one credit card for on ship charges and bring a different card just for excursions.  This way if a sketchy restaraunt steals my card I still have a working credit card to get home with.  Never carry an ATM card or those combo visa/check cards off the ship)
+- Cash for tips and vendors.  Most ports have local curency and just about everyone works in dollars.
+
+## Snacking
+When on ship you need nothing, but its nice to have somthing just in case on those all day excursions.  Especially if you are like me and rather explore than hit a restaraunt.  Bring as much as you want or nothing.  Some of these items are for when I am on a day trip and not on a cruise excursion.
+
+- Water flavor packets (you can get squirt bottles and packets that turn a bottle of water into the drink of your choice)
+- Beef Jerky Stick
+- Nut Pack
+- Granola Bar
+- Whine bottle opener 
+- Mini Hot Sauce
+- Mini Montreal Steak Seasing (seasoning packer of your choice)
+- Sweatener Packets many locations just have sugar.
+
 
 
 USB-C to phone
@@ -51,9 +71,7 @@ backup food bars (cary what you do not like)
 Montreal Steak Seasoning
 Whine bottle opener
 
-Ods and ends
-Carribeaners
-Carribeaner with rubber bottle holder
+
 
 First Aid Kit
 Tooth Brush, Paste, Dentle Floss
@@ -67,3 +85,11 @@ Dramamine
 Sudafed
 
 Compressed Towel
+## What not to pack
+This is a new section specific for cruises... and Disneyland.  There are items I cary at all times that I make sure I remove before traveling.  Double check for stuff like this, you dont want to dump something that has meaning to you at a security check point
+
+- Pocket Knife (this is why I cary a seperate bottle opener)
+- Screw Driver
+- Multi Tools
+- Anything with a blade or could be considered a weapon
+- Tools
