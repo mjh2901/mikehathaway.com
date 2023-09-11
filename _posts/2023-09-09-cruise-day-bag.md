@@ -78,6 +78,7 @@ Better to have it and not need than to need it and not have it.  You can fit all
 - Disposable exam gloves
 
 ## Personal Hygene
+![towel.jpg]({{site.baseurl}}/assets/img/posts/travel/towel.jpg)
 - Comb
 - Chapstick
 - Tissues
