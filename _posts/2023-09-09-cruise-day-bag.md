@@ -92,4 +92,3 @@ This is a new section specific for cruises... and Disneyland.  There are items I
 - Screw Driver
 - Multi Tools
 - Anything with a blade or could be considered a weapon
-- Tools
