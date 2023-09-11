@@ -69,10 +69,10 @@ Better to have it and not need than to need it and not have it.  You can fit all
 I keep pills in a little [alumunum screw top container](https://www.amazon.com/Hulless-Aluminum-Refillable-Containers-Container/dp/B072MC3K86/ref=sr_1_2?crid=3JUWN1483R5KW&keywords=small+aluminum+tins+with+screw+lids&qid=1694406204&sprefix=small+aluminum+tins+with+screw+lids%2Caps%2C152&sr=8-2)
 - Dramamine 
 - Pain Releaver (I cary a Aleve and Advil or Naproxin and Ibuprofin)
-- Pseudoephedrine (cruies bing you in contact with plants you never new you where alergic to)
+- Pseudoephedrine (cruises bring you in contact with plants you never new you where alergic to)
 - Pepto Bismol Chews (The jellybean form of pepto, its completely brilliant)
 - Talcom Powder (lots of walking a little bit to releave chafing really helps)
-- Tripple antibiotic ointment
+- Triple antibiotic ointment
 - Band Aids
 - Sterile gauze pads
 - Disposable exam gloves
@@ -94,6 +94,7 @@ I keep pills in a little [alumunum screw top container](https://www.amazon.com/H
 - Roll up reusable grocery bag (really handy if you are sopping and pick up items your pack cant fit)
 
 
+![knife]({{site.baseurl}}/assets/img/posts/travel/knife.jpg)
 ## What not to pack
 This is a new section specific for cruises... and Disneyland.  There are items I cary at all times that I make sure I remove before traveling.  Double check for stuff like this, you dont want to dump something that has meaning to you at a security check point.
 
