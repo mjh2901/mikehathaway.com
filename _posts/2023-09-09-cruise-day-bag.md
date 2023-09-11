@@ -66,7 +66,7 @@ When on ship you need nothing, but its nice to have somthing just in case on tho
 - Wine bottle opener 
 - Mini Hot Sauce
 - Mini Montreal Steak Seasing (seasoning pack of your choice)
-- Sweatener Packets many locations just have sugar.
+- Sweatener Packets (many locations just have sugar.)
 
 
 ## First Aid
