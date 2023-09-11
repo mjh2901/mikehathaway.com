@@ -28,7 +28,7 @@ Generally only one person in a group needs this bag, others can haul swimsuits, 
 
 ![[Day Bag](https://www.amazon.com/Tactical-Military-Shoulder-Backpack-Everyday/dp/B0BRR6N3TY/ref=sr_1_7?crid=OM3HI3MS7KNR&keywords=tactical+diaper+bag&qid=1694400020&sprefix=tactical+diaper%2Caps%2C159&sr=8-7)]({{site.baseurl}}/assets/img/posts/travel/daybag.jpg)
 
-This is a [Tactical Sling Bag]((https://www.amazon.com/Tactical-Military-Shoulder-Backpack-Everyday/dp/B0BRR6N3TY/ref=sr_1_7?crid=OM3HI3MS7KNR&keywords=tactical+diaper+bag&qid=1694400020&sprefix=tactical+diaper%2Caps%2C159&sr=8-7)), I am on bag numer three since they are cheap and the zippers seem to wear out over the years.
+This is a [Tactical Sling Bag]((https://www.amazon.com/Tactical-Military-Shoulder-Backpack-Everyday/dp/B0BRR6N3TY/ref=sr_1_7?crid=OM3HI3MS7KNR&keywords=tactical+diaper+bag&qid=1694400020&sprefix=tactical+diaper%2Caps%2C159&sr=8-7)), I am on bag number three since they are cheap and the zippers seem to wear out over the years.
 
 ### Whats in the bag
 
