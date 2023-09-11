@@ -99,7 +99,7 @@ Better to have it and not need than to need it and not have it.  You can fit all
 
 This is a new section specific for cruises... and Disneyland.  There are items I cary every day that I make sure to remove before traveling.  Double check for stuff like this, you dont want to dump something that has meaning to you at a security check point.
 
-- Pocket Knife (this is why I cary a seperate whine / bottle opener)
+- Pocket Knife (this is why I cary a seperate wine / bottle opener)
 - Screw Driver
 - Multi Tools
 - Anything with a blade or could be considered a weapon
