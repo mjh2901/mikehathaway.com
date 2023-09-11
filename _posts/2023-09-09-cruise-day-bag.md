@@ -26,22 +26,23 @@ Generally only one person in a group needs this bag, others can haul swimsuits, 
 
 ![[Day Bag](https://www.amazon.com/Tactical-Military-Shoulder-Backpack-Everyday/dp/B0BRR6N3TY/ref=sr_1_7?crid=OM3HI3MS7KNR&keywords=tactical+diaper+bag&qid=1694400020&sprefix=tactical+diaper%2Caps%2C159&sr=8-7)]({{site.baseurl}}/assets/img/posts/travel/daybag.jpg)
 
-Whats in the bag
-
-![tumbler.png]({{site.baseurl}}/assets/img/posts/travel/tumbler.png)
+### Whats in the bag
 
 ## Hydration
+![tumbler.png]({{site.baseurl}}/assets/img/posts/travel/tumbler.png)
 
 I carry a 26 oz Yeti Rambler with the straw cap.  Its a little larger than a normal water bottle but once filled with ice stays cold all day.  I like to fill mine completely with ice in the morning then add water right before stepping off the ship.  I attach the bottle with a [Molle bottle holder](https://www.amazon.com/WICKTICK-Adjustable-Tactical-Outdoor-Backpack/dp/B0C4KM31CZ/ref=sr_1_54?crid=2MXY3HGIXG51Z&keywords=tactical%2Bbottle%2Bholder&qid=1694402561&sprefix=tactical%2Bbottle%2Bholder%2Caps%2C186&sr=8-54&th=1).
 I use a my water bottle on ship filling it with Ice tea or water.
 
 If you want to go cheap you can use [silicon bottle holders](https://www.amazon.com/Silicone-Carrier-Keychain-Outdoor-Activities/dp/B07W1NQQKD/ref=sr_1_3?crid=1FKWXAQHRSLH&keywords=rubber+lanyard+bottle+holder&qid=1694402641&sprefix=rubber+lanyard+bottle+hold%2Caps%2C157&sr=8-3) that attach to your bag and hold any water bottle.
 
-![electronics.png]({{site.baseurl}}/assets/img/posts/travel/electronics.png)
 ## Technology
+![electronics.png]({{site.baseurl}}/assets/img/posts/travel/electronics.png)
+
 - Phone
-- External Battery Charging Pack (Phones do not last on trips, running the camera drains the battery at a high rate.  Phones with a battery that is OK for the day seem to run out before the excursion ends.  
+- External Battery Charging Pack (Phones do not last on trips, running the camera drains the battery at a high rate.  Phones with a battery that is OK for the day at home seem to run out of juice mid excursion.  
 - Phone charging cable
+- Waterproof Pouch for phone
 - Headphones (When on ship, I leave them in the cabin when on an excursion)
 
 ## Wallet
@@ -94,8 +95,9 @@ I keep pills in a little [alumunum screw top container](https://www.amazon.com/H
 - Roll up reusable grocery bag (really handy if you are sopping and pick up items your pack cant fit)
 
 
-![knife]({{site.baseurl}}/assets/img/posts/travel/knife.jpg)
+
 ## What not to pack
+![knife]({{site.baseurl}}/assets/img/posts/travel/knife.jpg)
 This is a new section specific for cruises... and Disneyland.  There are items I cary at all times that I make sure I remove before traveling.  Double check for stuff like this, you dont want to dump something that has meaning to you at a security check point.
 
 - Pocket Knife (this is why I cary a seperate bottle opener)
