@@ -83,6 +83,7 @@ I keep pills in a little [alumunum screw top container](https://www.amazon.com/H
 - Caribeaners
 - Hat
 - Sunglasses
+- [Microfiber Cooling Towel](https://www.amazon.com/YQXCC-Cooling-Microfiber-Camping-Football/dp/B082HNFVVZ/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d%3Aamzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d&crid=2E2LCYE03X1BN&cv_ct_cx=Microfiber%2Bcooling%2Btowel&keywords=Microfiber%2Bcooling%2Btowel&pd_rd_i=B082HNFVVZ&pd_rd_r=e52c384a-c27a-4555-83f9-b0eb106cad46&pd_rd_w=QHAYp&pd_rd_wg=XajnB&pf_rd_p=1c86ab1a-a73c-4131-85f1-15bd92ae152d&pf_rd_r=7GBKP1M4MFMP3YPGY37W&qid=1694407143&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=microfiber%2Bcooling%2Btowel%2Caps%2C163&sr=1-2-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1)
 
 
 ## What not to pack
