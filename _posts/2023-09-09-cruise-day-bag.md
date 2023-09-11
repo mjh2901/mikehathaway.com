@@ -46,6 +46,7 @@ If you want to go cheap you can use [silicon bottle holders](https://www.amazon.
 - Headphones (When on ship, I leave them in the cabin when on an excursion)
 
 ## Wallet
+![wallet.jpg]({{site.baseurl}}/assets/img/posts/travel/wallet.jpg)
 - ID (Drivers License or Passport card)
 - SeaPass required to get back on the ship
 - Excursion credit card (I use one credit card for on ship charges and bring a different card just for excursions.  This way if a sketchy restaraunt steals my card I still have a working credit card to get home with.  Never carry an ATM card or those combo visa/check cards off the ship)
@@ -94,6 +95,7 @@ Better to have it and not need than to need it and not have it.  You can fit all
 
 ## What not to pack
 ![knife]({{site.baseurl}}/assets/img/posts/travel/knife.jpg)
+
 This is a new section specific for cruises... and Disneyland.  There are items I cary every day that I make sure to remove before traveling.  Double check for stuff like this, you dont want to dump something that has meaning to you at a security check point.
 
 - Pocket Knife (this is why I cary a seperate whine / bottle opener)
