@@ -5,7 +5,7 @@ excerpt: "The essentials for wandering anywhere a ship docks"
 feature-img: "assets/img/feature-img/serenadeoftheseas.jpg"
 thumbnail: "assets/img/feature-img/serenadeoftheseas.jpg"
 bootstrap: true
-tags: [alma, rocky, docker]
+tags: [packing, travel, bag]
 ---
 ### The ultimate Excursion / Day trip bag!
 
