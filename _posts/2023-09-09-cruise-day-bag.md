@@ -63,7 +63,7 @@ When on ship you need nothing, but its nice to have somthing just in case on tho
 - Granola Bar
 - Wine bottle opener 
 - Mini Hot Sauce
-- Mini Montreal Steak Seasing (seasoning packer of your choice)
+- Mini Montreal Steak Seasing (seasoning pack of your choice)
 - Sweatener Packets many locations just have sugar.
 
 
