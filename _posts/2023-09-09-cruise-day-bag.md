@@ -32,7 +32,7 @@ Generally only one person in a group needs this bag, others can haul swimsuits, 
 ![tumbler.png]({{site.baseurl}}/assets/img/posts/travel/tumbler.png)
 
 I carry a 26 oz Yeti Rambler with the straw cap.  Its a little larger than a normal water bottle but once filled with ice stays cold all day.  I like to fill mine completely with ice in the morning then add water right before stepping off the ship.  I attach the bottle with a [Molle bottle holder](https://www.amazon.com/WICKTICK-Adjustable-Tactical-Outdoor-Backpack/dp/B0C4KM31CZ/ref=sr_1_54?crid=2MXY3HGIXG51Z&keywords=tactical%2Bbottle%2Bholder&qid=1694402561&sprefix=tactical%2Bbottle%2Bholder%2Caps%2C186&sr=8-54&th=1).
-I use a my water bottle on ship filling it with Ice tea or water.
+I use my water bottle on the ship filling it with Ice tea or Water.
 
 If you want to go cheap you can use [silicon bottle holders](https://www.amazon.com/Silicone-Carrier-Keychain-Outdoor-Activities/dp/B07W1NQQKD/ref=sr_1_3?crid=1FKWXAQHRSLH&keywords=rubber+lanyard+bottle+holder&qid=1694402641&sprefix=rubber+lanyard+bottle+hold%2Caps%2C157&sr=8-3) that attach to your bag and hold any water bottle.
 
@@ -94,13 +94,11 @@ I keep pills in a little [alumunum screw top container](https://www.amazon.com/H
 - [Microfiber Cooling Towel](https://www.amazon.com/YQXCC-Cooling-Microfiber-Camping-Football/dp/B082HNFVVZ/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d%3Aamzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d&crid=2E2LCYE03X1BN&cv_ct_cx=Microfiber%2Bcooling%2Btowel&keywords=Microfiber%2Bcooling%2Btowel&pd_rd_i=B082HNFVVZ&pd_rd_r=e52c384a-c27a-4555-83f9-b0eb106cad46&pd_rd_w=QHAYp&pd_rd_wg=XajnB&pf_rd_p=1c86ab1a-a73c-4131-85f1-15bd92ae152d&pf_rd_r=7GBKP1M4MFMP3YPGY37W&qid=1694407143&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=microfiber%2Bcooling%2Btowel%2Caps%2C163&sr=1-2-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1)
 - Roll up reusable grocery bag (really handy if you are sopping and pick up items your pack cant fit)
 
-
-
 ## What not to pack
 ![knife]({{site.baseurl}}/assets/img/posts/travel/knife.jpg)
-This is a new section specific for cruises... and Disneyland.  There are items I cary at all times that I make sure I remove before traveling.  Double check for stuff like this, you dont want to dump something that has meaning to you at a security check point.
+This is a new section specific for cruises... and Disneyland.  There are items I cary every day that I make sure to remove before traveling.  Double check for stuff like this, you dont want to dump something that has meaning to you at a security check point.
 
-- Pocket Knife (this is why I cary a seperate bottle opener)
+- Pocket Knife (this is why I cary a seperate whine / bottle opener)
 - Screw Driver
 - Multi Tools
 - Anything with a blade or could be considered a weapon
