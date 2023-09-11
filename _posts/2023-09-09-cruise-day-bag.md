@@ -33,6 +33,7 @@ I use a my water bottle on ship filling it with Ice tea or water.
 
 If you want to go cheap you can use [silicon bottle holders](https://www.amazon.com/Silicone-Carrier-Keychain-Outdoor-Activities/dp/B07W1NQQKD/ref=sr_1_3?crid=1FKWXAQHRSLH&keywords=rubber+lanyard+bottle+holder&qid=1694402641&sprefix=rubber+lanyard+bottle+hold%2Caps%2C157&sr=8-3) that attach to your bag and hold any water bottle.
 
+({{site.baseurl}}/assets/img/posts/travel/electronics.png)
 ## Technology
 - Phone
 - External Battery Charging Pack (Phones do not last on trips, running the camera drains the battery at a high rate.  Phones with a battery that is OK for the day seem to run out before the excursion ends.  
@@ -77,12 +78,15 @@ I keep pills in a little [alumunum screw top container](https://www.amazon.com/H
 - Chapstick
 - Tissues
 - [Compressed Towels](https://www.amazon.com/gp/product/B0741519LR/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1) (these things are awsome, get a bunch carry a few)
+- Insect Repellent
+- Sun Screen (many locations require require "reef safe" sunscreen its much cheaper to purchase before the trap rather than during the trip.
 
 ## Other
 - Caribeaners
 - Hat
 - Sunglasses
 - [Microfiber Cooling Towel](https://www.amazon.com/YQXCC-Cooling-Microfiber-Camping-Football/dp/B082HNFVVZ/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d%3Aamzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d&crid=2E2LCYE03X1BN&cv_ct_cx=Microfiber%2Bcooling%2Btowel&keywords=Microfiber%2Bcooling%2Btowel&pd_rd_i=B082HNFVVZ&pd_rd_r=e52c384a-c27a-4555-83f9-b0eb106cad46&pd_rd_w=QHAYp&pd_rd_wg=XajnB&pf_rd_p=1c86ab1a-a73c-4131-85f1-15bd92ae152d&pf_rd_r=7GBKP1M4MFMP3YPGY37W&qid=1694407143&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=microfiber%2Bcooling%2Btowel%2Caps%2C163&sr=1-2-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1)
+- Roll up reusable grocery bag (really handy if you are sopping and pick up items your pack cant fit)
 
 
 ## What not to pack
