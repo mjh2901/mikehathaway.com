@@ -76,7 +76,7 @@ I keep pills in a little [alumunum screw top container](https://www.amazon.com/H
 ## Personal Hygene
 - Comb
 - Chapstick
-- Tishues
+- Tissues
 - [Compressed Towels](https://www.amazon.com/gp/product/B0741519LR/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1) (these things are awsome, get a bunch carry a few)
 
 ## Other
