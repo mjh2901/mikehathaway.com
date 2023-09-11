@@ -86,7 +86,7 @@ Better to have it and not need than to need it and not have it.  You can fit all
 - Tissues
 - [Compressed Towels](https://www.amazon.com/gp/product/B0741519LR/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1) (these things are awsome, get a bunch carry a few)
 - Insect Repellent
-- Sun Screen (many locations require require "reef safe" sunscreen its much cheaper to purchase before the trap rather than during the trip.
+- Sun Screen (many locations require require "reef safe" sunscreen its much cheaper to purchase before the trip rather than during the trip.
 - Hand Sanitizer
 
 ## Other
