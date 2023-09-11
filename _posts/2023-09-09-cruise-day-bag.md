@@ -23,18 +23,23 @@ My starting point is the bag.  For every person there is the perfect bag, and wh
 
 My bag is a Tactical Sling Bag, very military. I have given one to my my Brother in law and each of his boys for day tripping.  I have seen this bag described on amazon as "Dads Diaper Bag" or the perfect every day gun bag.  My wife laughs at it because where the gun goes is padded and perfect for my ipad.  Whats important is its smaller than a full backup yet able to cary everything I need.  This is also my under the seat cary on for flights.  
 
-![[Day Bag](https://www.amazon.com/Tactical-Military-Shoulder-Backpack-Everyday/dp/B0BRR6N3TY/ref=sr_1_7?crid=OM3HI3MS7KNR&keywords=tactical+diaper+bag&qid=1694400020&sprefix=tactical+diaper%2Caps%2C159&sr=8-7)]({{site.baseurl}}/img/posts/travel/daybag.jpg)
+![[Day Bag](https://www.amazon.com/Tactical-Military-Shoulder-Backpack-Everyday/dp/B0BRR6N3TY/ref=sr_1_7?crid=OM3HI3MS7KNR&keywords=tactical+diaper+bag&qid=1694400020&sprefix=tactical+diaper%2Caps%2C159&sr=8-7)]({{site.baseurl}}/assets/img/posts/travel/daybag.jpg)
 
 Whats in the bag
 
-Hydration
+## Hydration
+
 I carry a 26 oz Yeti Rambler with the straw cap.  Its a little larger than a normal water bottle but once filled with ice stays cold all day.  I like to fill mine completely with ice in the morning then add water right before stepping off the ship.  I attach the bottle with a [Molle bottle holder](https://www.amazon.com/WICKTICK-Adjustable-Tactical-Outdoor-Backpack/dp/B0C4KM31CZ/ref=sr_1_54?crid=2MXY3HGIXG51Z&keywords=tactical%2Bbottle%2Bholder&qid=1694402561&sprefix=tactical%2Bbottle%2Bholder%2Caps%2C186&sr=8-54&th=1)
 I use a my water bottle on ship filling it with Ice tea or water.
 
 If you want to go cheap you can [silicon bottle holders](https://www.amazon.com/Silicone-Carrier-Keychain-Outdoor-Activities/dp/B07W1NQQKD/ref=sr_1_3?crid=1FKWXAQHRSLH&keywords=rubber+lanyard+bottle+holder&qid=1694402641&sprefix=rubber+lanyard+bottle+hold%2Caps%2C157&sr=8-3) that attach to your bag and hold any water bottle.
 
+## Technology
+- Phone
+- External Battery Charging Pack
+- Phone charging cable
 
-Technology
+
 USB-C to phone
 USB-C to USB-C
 USB to Micro USB
