@@ -58,7 +58,7 @@ When on ship you need nothing, but its nice to have somthing just in case on tho
 - Beef Jerky Stick
 - Nut Pack
 - Granola Bar
-- Whine bottle opener 
+- Wine bottle opener 
 - Mini Hot Sauce
 - Mini Montreal Steak Seasing (seasoning packer of your choice)
 - Sweatener Packets many locations just have sugar.
@@ -89,9 +89,9 @@ I keep pills in a little [alumunum screw top container](https://www.amazon.com/H
 
 ## Other
 - Caribeaners
-- Hat
+- Hat (attached to pack with a caribeaner)
 - Sunglasses
-- [Microfiber Cooling Towel](https://www.amazon.com/YQXCC-Cooling-Microfiber-Camping-Football/dp/B082HNFVVZ/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d%3Aamzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d&crid=2E2LCYE03X1BN&cv_ct_cx=Microfiber%2Bcooling%2Btowel&keywords=Microfiber%2Bcooling%2Btowel&pd_rd_i=B082HNFVVZ&pd_rd_r=e52c384a-c27a-4555-83f9-b0eb106cad46&pd_rd_w=QHAYp&pd_rd_wg=XajnB&pf_rd_p=1c86ab1a-a73c-4131-85f1-15bd92ae152d&pf_rd_r=7GBKP1M4MFMP3YPGY37W&qid=1694407143&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=microfiber%2Bcooling%2Btowel%2Caps%2C163&sr=1-2-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1)
+- [Microfiber Cooling Towel](https://www.amazon.com/YQXCC-Cooling-Microfiber-Camping-Football/dp/B082HNFVVZ/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d%3Aamzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d&crid=2E2LCYE03X1BN&cv_ct_cx=Microfiber%2Bcooling%2Btowel&keywords=Microfiber%2Bcooling%2Btowel&pd_rd_i=B082HNFVVZ&pd_rd_r=e52c384a-c27a-4555-83f9-b0eb106cad46&pd_rd_w=QHAYp&pd_rd_wg=XajnB&pf_rd_p=1c86ab1a-a73c-4131-85f1-15bd92ae152d&pf_rd_r=7GBKP1M4MFMP3YPGY37W&qid=1694407143&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=microfiber%2Bcooling%2Btowel%2Caps%2C163&sr=1-2-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1) Picked one up at Disney World now I dont travel without.  Soak them in water and place around your neck, or under your hat.  They can double as sun protection and cooling.
 - Roll up reusable grocery bag (really handy if you are sopping and pick up items your pack cant fit)
 
 ## What not to pack
