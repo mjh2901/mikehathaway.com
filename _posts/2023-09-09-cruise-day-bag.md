@@ -15,7 +15,9 @@ published: true
 
 Whats in your bag when you step off the ship?
 
-I have been cruising for a while, but before that, I have been a season pass holder for Disneyland Park.  My family refers to my day trips in the park and sometimes off the ship as a "Death March  ."Over the years and many death marches, I have developed a day bag ready for anything while not carrying anything that can cause problems.  If you are getting off the ship or planning to spend the day in a lounge chair, a well-supplied day bag can make your time on the run or the lounge chair without need.
+I have been cruising for a while, but before that, I have been a season pass holder for Disneyland Park.  My family refers to my day trips in the park and sometimes off the ship as a "Death March  ."Over the years and many death marches, I have developed a day bag ready for anything while not carrying anything that can cause problems.  If you are getting off the ship or planning to spend the day in a lounge chair, a well-supplied day bag can make your time on the run or the lounge chair go more smoothly.
+
+Why did I create this article?  First and formost, every day bag article I have found is written from a female perspective.  They tend to focus on clothing and not supplies and frankly leave out most of what I think is most important.  Every item on this list I have pulled out at some point on an excursursion / day trip.  This is the Hero bag list, pack it properly and at some point you will be the hero of the day.
 
 My bag setup has several staples, and I change items depending on the day.  For instance, I do not carry headphones if I am walking off the ship.  If I am spending the day on deck, I do bring headphones.  Every bag-packing video and list I have seen on the net has significant problems.  They try to pack everything you need for every possibility, or they focus on the beach and nothing else.  This guide is split into sections; you could pack each section in a zip loc and swap out the ziploc "kits" based on your day plans.
 
