@@ -26,12 +26,11 @@ My starting point is the bag.  There is the perfect bag for everyone, and what I
 
 Generally, only one person in a group needs this bag, others can haul swimsuits, towels, cover-ups, water shoes, and whatever other clothing your excursion specifically needs.  If the excursion is shopping or hiking everyone else should have their own hydration and phone/camera.  My wife generally only carries a wallet off the ship and it goes in my bag.  
 
+If you like this list I have a [simplified checkbox version available](https://mikehathaway.com/portfolio/day-trip-bag-checklist).
 
 ![[Day Bag](https://www.amazon.com/Tactical-Military-Shoulder-Backpack-Everyday/dp/B0BRR6N3TY/ref=sr_1_7?crid=OM3HI3MS7KNR&keywords=tactical+diaper+bag&qid=1694400020&sprefix=tactical+diaper%2Caps%2C159&sr=8-7)]({{site.baseurl}}/assets/img/posts/travel/daybag.jpg)
 
 This is a [Tactical Sling Bag]((https://www.amazon.com/Tactical-Military-Shoulder-Backpack-Everyday/dp/B0BRR6N3TY/ref=sr_1_7?crid=OM3HI3MS7KNR&keywords=tactical+diaper+bag&qid=1694400020&sprefix=tactical+diaper%2Caps%2C159&sr=8-7)), I am on bag number three since they are cheap and the zippers seem to wear out over the years.
-
-If you like this list I have a [simplified checkbox version available](https://mikehathaway.com/portfolio/day-trip-bag-checklist).
 
 ### What's in the bag
 
