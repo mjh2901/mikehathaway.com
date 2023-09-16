@@ -74,12 +74,13 @@ When on ship you need nothing, but it's nice to have something just in case on t
 ## First Aid
 Better to have it and not need it than to need it and not have it.  You can fit all these items in a zip-lock sandwich bag.  I keep pills in a little [alumunum screw top container](https://www.amazon.com/Hulless-Aluminum-Refillable-Containers-Container/dp/B072MC3K86/ref=sr_1_2?crid=3JUWN1483R5KW&keywords=small+aluminum+tins+with+screw+lids&qid=1694406204&sprefix=small+aluminum+tins+with+screw+lids%2Caps%2C152&sr=8-2)
 - Dramamine 
-- Pain Reliever (I cary Aleve and Advil or Naproxin and Ibuprofin)
+- Pain Reliever (I carry Aleve and Advil or Naproxin and Ibuprofin)
 - Pseudoephedrine (cruises bring you in contact with plants you never knew you were allergic to)
 - Pepto Bismol Chews (The jellybean form of Pepto, is completely brilliant)
 - Triple antibiotic ointment
 - Band-Aids
 - Sterile gauze pads
+- Alcohol prep pads
 - Disposable exam gloves
 
 ## Personal Hygiene
