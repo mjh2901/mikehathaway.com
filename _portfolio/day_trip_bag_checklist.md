@@ -1,6 +1,6 @@
 ---
 title: Day Trip Bag Checklist
-date: 2014-04-07 17:00:00 -07:00
+date: 2023-09-16 17:00:00 -07:00
 tags:
 - Lorem
 img: assets/img/portfolio/ninja.png
