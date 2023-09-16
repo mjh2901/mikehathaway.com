@@ -75,7 +75,6 @@ Better to have it and not need than to need it and not have it.  You can fit all
 - Pain Releaver (I cary a Aleve and Advil or Naproxin and Ibuprofin)
 - Pseudoephedrine (cruises bring you in contact with plants you never new you where alergic to)
 - Pepto Bismol Chews (The jellybean form of pepto, its completely brilliant)
-- Talcom Powder (lots of walking a little bit to releave chafing really helps)
 - Triple antibiotic ointment
 - Band Aids
 - Sterile gauze pads
@@ -90,6 +89,7 @@ Better to have it and not need than to need it and not have it.  You can fit all
 - Insect Repellent
 - Sun Screen (many locations require require "reef safe" sunscreen its much cheaper to purchase before the trip rather than during the trip.)
 - Hand Sanitizer
+- Talcom Powder (lots of walking a little bit to releave chafing really helps)
 
 ## Other
 - Caribeaners
