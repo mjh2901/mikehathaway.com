@@ -44,6 +44,7 @@ This is the checklist version from my [Ultimate Excursion / Day Trip Bag article
 - [ ] Tripple Antibiotic Ointment
 - [ ] Band Aids
 - [ ] Sterile gauze pads
+- [ ] Alcohol Prep Pads
 - [ ] Disposable exam gloves
 
 ### Snaking
