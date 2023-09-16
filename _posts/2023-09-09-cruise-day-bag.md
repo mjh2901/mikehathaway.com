@@ -1,16 +1,17 @@
 ---
-layout: post
 title: My Cruise Excursion Bag
+date: 2023-09-09 00:00:00 Z
+tags:
+- packing
+- travel
+- bag
+layout: post
 excerpt: The essentials for wandering anywhere a ship docks
 feature-img: assets/img/feature-img/serenadeoftheseas.jpg
 thumbnail: assets/img/feature-img/serenadeoftheseas.jpg
 bootstrap: true
-tags:
-  - packing
-  - travel
-  - bag
-published: true
 ---
+
 ### The Ultimate Excursion / Day trip bag!
 
 Whats in your bag when you step off the ship?

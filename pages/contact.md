@@ -1,9 +1,10 @@
 ---
-layout: page
 title: Contact
-permalink: /contact/
-feature-img: "assets/img/feature-img/phone.jpg"
+permalink: "/contact/"
+layout: page
+feature-img: assets/img/feature-img/phone.jpg
 ---
+
 # Contact Mike
 ## Here's how to reach me!
 

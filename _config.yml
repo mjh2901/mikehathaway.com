@@ -1,59 +1,52 @@
-# SITE CONFIGURATION
-baseurl: ""
-url: "https://mikehathaway.com"
-
-# THEME-SPECIFIC CONFIGURATION
-title: Ideas, Tutorials, Pictures & Code                          # site's title
-description: "Ideas, Tutorials, Pictures & Code"        # used by search engines
-avatar: assets/img/mh_logo.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
-
-# Header and footer text
-header_text: Mike Hathaway's Site  # Change Blog header text
+---
+title: Ideas, Tutorials, Pictures & Code
+timezone: UTC
+collections:
+  portfolio:
+    title: Portfolio
+    output: true
+    permalink: "/:collection/:name"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+baseurl: ''
+url: https://mikehathaway.com
+description: Ideas, Tutorials, Pictures & Code
+avatar: assets/img/mh_logo.png
+favicon: assets/favicon.ico
+header_text: Mike Hathaway's Site
 header_feature_image: assets/img/feature-img/yosemit_cover.png
 header_feature_image_responsive: true
 footer_text: Copyright © 2023 Mike Hathaway
-
-# Blog Configuration
-excerpt: true                          # Or "truncate" (first 250 characters), "false" to disable
+excerpt: true
 post_navigation: true
-color_image: /assets/img/lineart.png              # A bit transparent for color posts.
-paginate: 10
-paginate_path: "blog/page:num"
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
-
-# Features
-# More in the _data folder for share buttons, author and language
-# For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
-katex: true                                            # Enable if using math markup
-mermaid: default                                       # Enable mermaid-js for diagrams, use theme: base, forest, dark, default, neutral
-google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
-cookie_consent: false                                   # To respect the usage of cookies
-color_theme: dark                         # auto, dark or light
-
-# Comments
-comments:
-  disqus_shortname:                                     # Your discus shortname for comments
-  cusdis_app_id:                                        # Your cusdis data-app-id
-  utterances:                                           # Enable by filling below information. For more info, go to https://utteranc.es
-    repo:                                               # your public comments repository (e.g. owner/repo)
-    issue-term:                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
-
-# PAGINATION
+color_image: "/assets/img/lineart.png"
 paginate: 8
 paginate_path: "/blog/page:num"
-
-# PORTFOLIO
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:name
-
-# BUILD SETTINGS
+plugins:
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-feed
+katex: true
+mermaid: default
+google_analytics: 
+cookie_consent: false
+color_theme: dark
+comments:
+  disqus_shortname: 
+  cusdis_app_id: 
+  utterances:
+    repo: 
+    issue-term: 
 sass:
   style: compressed
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
-exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
-
-# theme: type-on-strap                   # if using the theme as a jekyll theme gem
-remote_theme: sylhare/Type-on-Strap          # If using as a remote_theme in github
+exclude:
+- ".jekyll-cache"
+- ".jekyll-metadata"
+- ".idea"
+- vendor/*
+- assets/node_modules/*
+remote_theme: sylhare/Type-on-Strap

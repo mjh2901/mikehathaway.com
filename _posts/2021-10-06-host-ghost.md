@@ -1,11 +1,13 @@
 ---
+title: Host your ghost site on GitHub
+date: 2021-10-06 00:00:00 Z
+tags:
+- ghost
 layout: post
-title: "Host your ghost site on GitHub"
-excerpt: "Ghost can be a simple way build a static website"
-feature-img: "assets/img/feature-img/ghost.png"
-thumbnail: "assets/img/feature-img/ghost.png"
+excerpt: Ghost can be a simple way build a static website
+feature-img: assets/img/feature-img/ghost.png
+thumbnail: assets/img/feature-img/ghost.png
 bootstrap: true
-tags: [ghost]
 ---
 
 ### Let GitHub pay your hosting bill

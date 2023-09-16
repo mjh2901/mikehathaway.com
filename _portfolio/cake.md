@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Cake
-feature-img: "assets/img/portfolio/cake.png"
-img: "assets/img/portfolio/cake.png"
-date: 27 September 2015
-tags: [Lorem, Ipsum]
+date: 2015-09-27 00:00:00 Z
+tags:
+- Lorem
+- Ipsum
+layout: post
+feature-img: assets/img/portfolio/cake.png
+img: assets/img/portfolio/cake.png
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 

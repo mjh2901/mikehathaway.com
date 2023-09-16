@@ -1,11 +1,13 @@
 ---
+title: 'Rocky Linux: Install'
+date: 2021-10-02 00:00:00 Z
+tags:
+- rocky
 layout: post
-title: "Rocky Linux: Install"
-excerpt: "Ghost can be a simple way to setup a self hosted blog"
-feature-img: "assets/img/feature-img/rocky_mountains.jpg"
-thumbnail: "assets/img/feature-img/rocky_mountains.jpg"
+excerpt: Ghost can be a simple way to setup a self hosted blog
+feature-img: assets/img/feature-img/rocky_mountains.jpg
+thumbnail: assets/img/feature-img/rocky_mountains.jpg
 bootstrap: true
-tags: [rocky]
 ---
 
 ## How to install Rocky Linux.

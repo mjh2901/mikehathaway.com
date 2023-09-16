@@ -1,13 +1,16 @@
 ---
+title: So you want to wire your home
+date: 2022-10-31 00:00:00 Z
+tags:
+- ghost
 layout: post
-title: "So you want to wire your home"
-excerpt: "A primer for building a physical home network"
-feature-img: "assets/img/feature-img/ghost.png"
-thumbnail: "assets/img/feature-img/ghost.png"
+excerpt: A primer for building a physical home network
+feature-img: assets/img/feature-img/ghost.png
+thumbnail: assets/img/feature-img/ghost.png
 bootstrap: true
-tags: [ghost]
 visible: 1
 ---
+
 You have moved into a new house, are starting a major renovation or are starting a home boild from scratch.  What shoul you do for a network.
 
 One of the most common questions on the Reddit r/homenetwork forum is I am moving into, building or renovatinga  place what should I do for the network.  The question gets a lot of great answers, but reddit does not provide a good forum for a how to build a network guide.  This article is meant to be a starting point for buildeing a network.  We will go through some basics of a network without writing a book.

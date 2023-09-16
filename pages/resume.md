@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Resume
-permalink: /resume/
-feature-img: "assets/img/feature-img/laptop_feetup.jpg"
+permalink: "/resume/"
+layout: page
+feature-img: assets/img/feature-img/laptop_feetup.jpg
 ---
 
 ### CAREER PROFILE

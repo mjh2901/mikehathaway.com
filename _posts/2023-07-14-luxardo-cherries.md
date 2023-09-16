@@ -1,12 +1,15 @@
 ---
+title: 'Recipe: Luxardo Cherries'
+date: 2023-07-14 00:00:00 Z
+tags:
+- recipe
 layout: post
-title: "Recipe: Luxardo Cherries"
-excerpt: "Luxardo Cherries"
-feature-img: "assets/img/feature-img/cherries.jpg"
-thumbnail: "assets/img/feature-img/cherries.jpg"
+excerpt: Luxardo Cherries
+feature-img: assets/img/feature-img/cherries.jpg
+thumbnail: assets/img/feature-img/cherries.jpg
 bootstrap: true
-tags: [recipe]
 ---
+
 ### Make your own Luxardo Cherries!
 
 For those of us that enjoy an adult beverage, the difference between day drinking and enjoying a sofisticated drink is the accessories.  The Martini has its olive and a good Old Fashioned has a Cherry.  Luxardo Cherries are basically a cherry preserved with Luxardo Liqueure.  They are extremely expensive in the store and fairly inexpenisve to produce yourself.  The reults are much better than the jared version. espeically if you have access to fresh California cherries.

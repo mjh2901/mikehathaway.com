@@ -1,12 +1,15 @@
 ---
+title: Docker, MariaDB, phpMyAdmin
+date: 2022-04-16 00:00:00 Z
+tags:
+- docker
 layout: post
-title: "Docker, MariaDB, phpMyAdmin"
-excerpt: "Install MariaDB and phpMyAdmin using Docker & Portainer"
-feature-img: "assets/img/feature-img/docker.jpg"
-thumbnail: "assets/img/feature-img/docker.jpg"
+excerpt: Install MariaDB and phpMyAdmin using Docker & Portainer
+feature-img: assets/img/feature-img/docker.jpg
+thumbnail: assets/img/feature-img/docker.jpg
 bootstrap: true
-tags: [docker]
 ---
+
 ### Install MariaDB and phpMyAdmin using Docker & Portainer
 
 The LAMP stack is probably the most referred to stack for apps in setting up a web server.  Linux, Apache, MySQL, and PHP are the backbone or the basis of the backbone for most web applications out there.  A lot of admins get started installing this basic setup.   With Docker the app is broken up into pieces, a container for MySQL and Container for the app etc...

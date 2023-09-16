@@ -1,11 +1,13 @@
 ---
+title: Why Ghost on Github pages
+date: 2021-09-26 00:00:00 Z
+tags:
+- ghost
 layout: post
-title: "Why Ghost on Github pages"
-excerpt: "Ghost can be a simple way to setup a self hosted blog"
-feature-img: "assets/img/feature-img/ghost.png"
-thumbnail: "assets/img/feature-img/ghost.png"
+excerpt: Ghost can be a simple way to setup a self hosted blog
+feature-img: assets/img/feature-img/ghost.png
+thumbnail: assets/img/feature-img/ghost.png
 bootstrap: true
-tags: [ghost]
 ---
 
 The process of bringing this website online involved a lot of trial and error.  Error was mainly caused by the normal issues one runs into when self hosting.  The rest where caused by a large number of scripts and instructions designed for older or different operating systems and differing versions of node, npm and python refusing to work as documented.    

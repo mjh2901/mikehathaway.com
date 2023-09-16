@@ -1,12 +1,16 @@
 ---
+title: 'Rocky Linux: Docker'
+date: 2022-03-13 00:00:00 Z
+tags:
+- rocky
+- docker
 layout: post
-title: "Rocky Linux: Docker"
-excerpt: "Deploy Docker on Rocky Linux and add a gui manager"
-feature-img: "assets/img/feature-img/rocky_mountains.jpg"
-thumbnail: "assets/img/feature-img/rocky_mountains.jpg"
+excerpt: Deploy Docker on Rocky Linux and add a gui manager
+feature-img: assets/img/feature-img/rocky_mountains.jpg
+thumbnail: assets/img/feature-img/rocky_mountains.jpg
 bootstrap: true
-tags: [rocky, docker]
 ---
+
 ### Build the ultimate Docker setup!
 
 We are going to take a vanila Rocky Linux server install Docker.  We are also going to add a web front end to manage docker known as Portainer.  Finally to we are going to setup our docker containers to automatically update themselves with a program called WatchTower.  Once finished you will have an easy to manage Docker system that updates all of your containers automatically.
