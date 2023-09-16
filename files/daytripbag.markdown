@@ -1,6 +1,7 @@
 ---
 title: Day Trip Bag Checklist
 date: 2023-09-16 12:43:00 -07:00
+permalink: "/docs/daytripbagchecklist"
 ---
 
 ![Foo]({{ 'assets/img/feature-img/digbe.png' | relative_url }})
