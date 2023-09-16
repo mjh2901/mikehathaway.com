@@ -1,8 +1,12 @@
 ---
 title: Day Trip Bag Checklist
 date: 2023-09-16 17:00:00 -07:00
+permalink: "/portfolio/day-trip-bag-checklist"
+published: false
+categories:
+- Travel
 tags:
-- Lorem
+- Travel
 img: assets/img/portfolio/ninja.png
 layout: post
 ---
