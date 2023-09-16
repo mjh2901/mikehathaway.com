@@ -12,7 +12,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-baseurl: ''
+baseurl: 
 url: https://mikehathaway.com
 description: Ideas, Tutorials, Pictures & Code
 avatar: assets/img/mh_logo.png
