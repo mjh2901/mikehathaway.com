@@ -6,7 +6,7 @@ date: 2023-09-16 12:43:00 -07:00
 ![Foo]({{ 'assets/img/feature-img/digbe.png' | relative_url }})
 
 ## Day Trip Bag Checklist
-This is the check list version from my [Ultimate Excursion / Day trip Bag article](https://mikehathaway.com/2023/09/09/cruise-day-bag.html)
+This is the checklist version from my [Ultimate Excursion / Day Trip Bag article](https://mikehathaway.com/2023/09/08/cruise-day-bag.html)
 
 ### Hydration
 - [ ] Water Bottle
