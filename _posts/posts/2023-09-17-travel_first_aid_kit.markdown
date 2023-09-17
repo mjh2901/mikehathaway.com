@@ -46,3 +46,7 @@ Better to have it and not need it than to need it and not have it.  You can fit 
 **Miscellaneous**
 
 * \[ \] Bug Bite Thing
+
+* \[ \] CPR Face Shield
+
+* 
