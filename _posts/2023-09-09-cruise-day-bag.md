@@ -145,6 +145,8 @@ Better to have it and not need it than to need it and not have it.  You can fit 
 
 * Roll up reusable grocery bag (really handy if you are shopping and pick up items your pack can't fit)
 
+* Writing Device 
+
 ## What not to pack
 
 ![knife.jpg](/uploads/knife.jpg)
