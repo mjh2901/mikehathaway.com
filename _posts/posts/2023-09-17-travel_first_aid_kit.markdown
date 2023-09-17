@@ -27,7 +27,7 @@ Better to have it and not need it than to need it and not have it.  You can fit 
 
 * \[ \] AlcaSeltzer
 
-* 
+* \[ \] Imodium
 
 **External First Aid**
 
