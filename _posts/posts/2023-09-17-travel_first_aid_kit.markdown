@@ -33,6 +33,8 @@ Better to have it and not need it than to need it and not have it.  You can fit 
 
 * \[ \]Triple antibiotic ointment
 
+* \[ \]Hydrocortisone Cream
+
 * \[ \]Band-Aids
 
 * \[ \]Sterile gauze pads
