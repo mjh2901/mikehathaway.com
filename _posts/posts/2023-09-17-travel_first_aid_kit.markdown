@@ -51,4 +51,6 @@ Better to have it and not need it than to need it and not have it.  You can fit 
 
 * \[ \] CPR Face Shield
 
+* \[ \] Thermometer (electric no old school glass, even in a carry case)
+
 * 
