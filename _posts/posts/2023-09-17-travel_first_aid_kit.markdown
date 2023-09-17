@@ -13,7 +13,7 @@ tags:
 
 **My Travel First Aid Kit**
 
-Better to have it and not need it than to need it and not have it.  You can fit all these items in a zip-lock sandwich bag.  I keep pills in a little [alumunum screw top container](https://www.amazon.com/Hulless-Aluminum-Refillable-Containers-Container/dp/B072MC3K86/ref=sr_1_2?crid=3JUWN1483R5KW&keywords=small\+aluminum\+tins\+with\+screw\+lids&qid=1694406204&sprefix=small\+aluminum\+tins\+with\+screw\+lids%2Caps%2C152&sr=8-2)
+Better to have it and not need it than to need it and not have it.  You can fit all these items in a zip-lock sandwich bag.  I keep pills in a little [aluminum screw top container](https://www.amazon.com/Hulless-Aluminum-Refillable-Containers-Container/dp/B072MC3K86/ref=sr_1_2?crid=3JUWN1483R5KW&keywords=small\+aluminum\+tins\+with\+screw\+lids&qid=1694406204&sprefix=small\+aluminum\+tins\+with\+screw\+lids%2Caps%2C152&sr=8-2)
 
 **Medications**
 
