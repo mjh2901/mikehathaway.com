@@ -11,58 +11,101 @@ layout: post
 ---
 
 ## Day Trip Bag Checklist
+
 This is the checklist version from my [Ultimate Excursion / Day Trip Bag article](https://mikehathaway.com/2023/09/08/cruise-day-bag.html)
 
 ### Hydration
-- [ ] Water Bottle
+
+* \[ \] Water Bottle
 
 ### Technology
-- [ ] Phone
-- [ ] External Battery Pack
-- [ ] Charging Cable
-- [ ] Waterproof Pouch
-- [ ] Headphones
+
+* \[ \] Phone
+
+* \[ \] External Battery Pack
+
+* \[ \] Charging Cable
+
+* \[ \] Waterproof Pouch
+
+* \[ \] Headphones
 
 ### Wallet
-- [ ] ID
-- [ ] SeaPass
-- [ ] Travel Credit Card
-- [ ] Cash
 
-### Personal Hygene
-- [ ] Comb
-- [ ] Chapstick
-- [ ] Tissues
-- [ ] Compressed Towels
-- [ ] Insect Repellent
-- [ ] Sun Screen
-- [ ] Hand Sanitizer
-- [ ] Talcom Powder
+* \[ \] ID
+
+* \[ \] SeaPass
+
+* \[ \] Travel Credit Card
+
+* \[ \] Cash
+
+### Personal Hygiene
+
+* \[ \] Comb
+
+* \[ \] Chapstick
+
+* \[ \] Tissues
+
+* \[ \] Compressed Towels
+
+* \[ \] Insect Repellent
+
+* \[ \] Sun Screen
+
+* \[ \] Hand Sanitizer
+
+* \[ \] Talcom Powder
 
 ### First Aid
-- [ ] Dramamine
-- [ ] Pain REleaver
-- [ ] Pseudoephedrine
-- [ ] Peto Bismol Chews
-- [ ] Tripple Antibiotic Ointment
-- [ ] Band Aids
-- [ ] Sterile gauze pads
-- [ ] Alcohol Prep Pads
-- [ ] Disposable exam gloves
+
+* \[ \] Dramamine
+
+* \[ \] Pain Releaver
+
+* \[ \] Pseudoephedrine
+
+* \[ \] Pepto Bismol Chews
+
+* \[ \] Triple Antibiotic Ointment
+
+* \[ \] Band Aids
+
+* \[ \] Sterile gauze pads
+
+* \[ \] Alcohol Prep Pads
+
+* \[ \] Disposable exam gloves
 
 ### Snaking
-- [ ] Water flavor packets
-- [ ] Beef Jerky
-- [ ] Nut pack
-- [ ] Granola Bar
-- [ ] Wine bottle opener
-- [ ] Mini hot sauce
-- [ ] Mini Montreal Steak Seasoning (Seasoning of your choice)
-- [ ] Sweatener Packets
+
+* \[ \] Water flavor packets
+
+* \[ \] Beef Jerky
+
+* \[ \] Nut pack
+
+* \[ \] Granola Bar
+
+* \[ \] Wine bottle opener
+
+* \[ \] Mini hot sauce
+
+* \[ \] Mini Montreal Steak Seasoning (Seasoning of your choice)
+
+* \[ \] Sweetener Packets
 
 ### Other
-- [ ] Caribeaners
-- [ ] Hat
-- [ ] Sunglasses
-- [ ] Micofier Cooling Towel
-- [ ] Roll up reusable grocery Bag
+
+* \[ \] Caribbeans
+
+* \[ \] Hat
+
+* \[ \] Sunglasses
+
+* \[ \] Microfiber Cooling Towel
+
+* \[ \] Roll up reusable grocery Bag
+
+* \[ \] Writing Devices
