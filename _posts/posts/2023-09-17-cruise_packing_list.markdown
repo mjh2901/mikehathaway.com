@@ -28,11 +28,11 @@ There are items I pack that just don't seam normal, and may not be part of your 
 
 Items in the below kits are not included in this packing list, make sure you create these kits
 
-[Mikes Every Day Cary Bag ](https://mikehathaway.com/2023/09/08/cruise-day-bag.html)
+* [Every Day Cary Bag ](https://mikehathaway.com/2023/09/08/cruise-day-bag.html)
 
-[Mikes Ultimate Toiletry bag](https://mikehathaway.com/posts/travel_first_aid_kit)
+* [Ultimate Dopp Kit](https://mikehathaway.com/posts/travel_first_aid_kit)
 
-Mikes Travel First Aid Kit
+* [Travel First Aid Kit](  https://mikehathaway.com/posts/travel_first_aid_kit)
 
 Embarkation Bag
 
