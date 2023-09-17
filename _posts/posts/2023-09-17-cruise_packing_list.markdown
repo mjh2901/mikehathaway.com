@@ -12,11 +12,17 @@ tags:
 
 This is my cruise packing list
 
-I have a developed a love hate relationship with packing checklists.  Most lists are just that a list, a few are broken down in sections.  I tend to pack things in kits, it could be an ovenight kit, or a packing cube that contains everthing for swiming.  By splitting everything into kits and cubes you can concentrate on one section at a time.  Its also makes it easier as I have an overnight kit ready to go at all times, and my every day cary bag is also at the ready so I just throw those into the suitcase and there is a massive part of the list gone.  So here is my cruise packing list and unlike a lot of lists out there it is specific to guys.  Women this list kinda works I am sure its easy to come with additions to make it perfect. 
+I have a developed a love hate relationship with packing checklists.  Most lists are just that a list, a few are broken down in sections.  I tend to pack things in kits, it could be an ovenight kit, or a packing cube that contains everthing for swiming.  By splitting everything into kits and cubes you can concentrate on one section at a time.  Its also makes it easier as I have an overnight kit ready to go at all times, and my every day cary bag is also at the ready so I just throw those into the suitcase and there is a massive part of the list gone.  So here is my cruise packing list and unlike a lot of lists out there it is specific to guys.  Women this list kinda works I am sure its easy to come with additions to make it perfect.
 
 For those that want a simple checklist, I have that here
 
 So here we go
+
+**Strange Items:**
+
+There are items I pack that just don't seam normal, and may not be part of your packing list.  Consider adding some of these items on your next adventure
+
+* Red Zip Ties (I don't use luggage locks they are simple to open and the TSA has master keys.  Instead I use red zip ties.  They stand out and TSA replaces with clear, white or black zip ties so if my case is returned with those colors I know TSA has searched my luggage.  TSA also seems to be better at re-zip tying luggage than they are locking it back up. 
 
 Mikes Every Day Cary Bag
 
@@ -32,4 +38,4 @@ Activewear Cube
 
 Tshirt Cube
 
-D
+S
