@@ -28,7 +28,7 @@ Generally, only one person in a group needs this bag, others can haul swimsuits,
 
 If you like this list I have a [simplified checkbox version available](https://mikehathaway.com/portfolio/day-trip-bag-checklist).
 
-![](%7B%7Bsite.baseurl%7D%7D/assets/img/posts/travel/daybag.jpg)
+![daybag.jpg](/uploads/daybag.jpg)
 
 This is a [Tactical Sling Bag]((https://www.amazon.com/Tactical-Military-Shoulder-Backpack-Everyday/dp/B0BRR6N3TY/ref=sr_1_7?crid=OM3HI3MS7KNR&keywords=tactical\+diaper\+bag&qid=1694400020&sprefix=tactical\+diaper%2Caps%2C159&sr=8-7)), I am on bag number three since they are cheap and the zippers seem to wear out over the years.
 
@@ -36,7 +36,7 @@ This is a [Tactical Sling Bag]((https://www.amazon.com/Tactical-Military-Shoulde
 
 ## Hydration
 
-![tumbler.png](%7B%7Bsite.baseurl%7D%7D/assets/img/posts/travel/tumbler.png)
+![tumbler.png](/uploads/tumbler.png)
 
 I carry a 26 oz Yeti Rambler with a straw cap.  It's a little larger than a normal water bottle but once filled with ice stays cold all day.  I like to fill mine completely with ice in the morning then add water right before stepping off the ship.  I attach the bottle with a [Molle bottle holder](https://www.amazon.com/WICKTICK-Adjustable-Tactical-Outdoor-Backpack/dp/B0C4KM31CZ/ref=sr_1_54?crid=2MXY3HGIXG51Z&keywords=tactical%2Bbottle%2Bholder&qid=1694402561&sprefix=tactical%2Bbottle%2Bholder%2Caps%2C186&sr=8-54&th=1).
 I use my water bottle on the ship filling it with Ice tea or Water.
@@ -45,7 +45,7 @@ If you want to go cheap you can use [silicon bottle holders](https://www.amazon.
 
 ## Technology
 
-![electronics.png](%7B%7Bsite.baseurl%7D%7D/assets/img/posts/travel/electronics.png)
+![electronics.png](/uploads/electronics.png)
 
 * Phone
 
@@ -59,7 +59,7 @@ If you want to go cheap you can use [silicon bottle holders](https://www.amazon.
 
 ## Wallet
 
-![wallet.jpg](%7B%7Bsite.baseurl%7D%7D/assets/img/posts/travel/wallet.jpg)
+![wallet.jpg](/uploads/wallet.jpg)
 
 * ID (Drivers License or Passport card)
 
@@ -115,7 +115,7 @@ Better to have it and not need it than to need it and not have it.  You can fit 
 
 ## Personal Hygiene
 
-![towel.jpg](%7B%7Bsite.baseurl%7D%7D/assets/img/posts/travel/towel.jpg)
+![towel.jpg](/uploads/towel.jpg)
 
 * Comb
 
@@ -147,7 +147,7 @@ Better to have it and not need it than to need it and not have it.  You can fit 
 
 ## What not to pack
 
-![knife](%7B%7Bsite.baseurl%7D%7D/assets/img/posts/travel/knife.jpg)
+![knife.jpg](/uploads/knife.jpg)
 
 This is a new section specific to cruises... and Disneyland.  There are items I carry every day that I make sure to remove before traveling.  Double-check for stuff like this, you don't want to dump something that has meaning to you at a security checkpoint.
 
