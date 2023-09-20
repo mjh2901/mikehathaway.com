@@ -6,6 +6,19 @@ published: false
 
 I am working on a Jekyll project which requires Ruby.  As is common with most distributions of linux, the version of Ruby or many other things you want is not the default in the distribution.  In my case, I needed a version of Ruby that is not the default.  
 
+Of course we update the distro first
+> sudo dnf update
 
+Install dependencies
+> sudo dnf install gnupg2 curl tar nano wget
 
-sudo dnf groupinstall "Development Tools"
+Install Dev tools
+> sudo dnf groupinstall "Development Tools"
+
+Install RVM (Ruby Version Manager
+> curl -sSL https://get.rvm.io | sudo bash
+
+sudo usermod -aG rvm $USER
+
+source /etc/profile.d/rvm.sh
+
