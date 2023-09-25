@@ -19,7 +19,7 @@ Better to have it and not need it than to need it and not have it.  You can fit 
 
 * \[ \]Dramamine
 
-* \[ \]Pain Reliever (I carry Aleve and Advil or Naproxin and Ibuprofin)
+* \[ \]Pain Reliever (I carry Aleve and Advil or Naproxin and Ibuprofen)
 
 * \[ \]Pseudoephedrine (cruises bring you in contact with plants you never knew you were allergic to)
 
