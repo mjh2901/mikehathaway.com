@@ -9,7 +9,10 @@ tags:
 - travel
 - bag
 - packing
+layout: post
 ---
+
+![first_aid_kit.jpg](/uploads/first_aid_kit.jpg)
 
 **My Travel First Aid Kit**
 
@@ -71,12 +74,12 @@ I keep pills in a little [aluminum screw top container](https://www.amazon.com/H
 
 * \[ \] Sunscreen
 
-* \[ \] Aloe gel for sunburns 
+* \[ \] Aloe gel for sunburns
 
 * \[ \] Insect Repellent
 
 **Specific Travel / Car Kit / Scouting**\
-  These are items I would not pack in luggage for trip, but would pack in a car first aid kit for when you are a distance from civilization.  
+These are items I would not pack in luggage for trip, but would pack in a car first aid kit for when you are a distance from civilization.
 
 * \[ \] Triangular bandage to wrap injuries and make an arm sling
 
@@ -84,9 +87,9 @@ I keep pills in a little [aluminum screw top container](https://www.amazon.com/H
 
 * \[ \] Guaze in rolls
 
-* \[ \] CPR Pocket Mask 
+* \[ \] CPR Pocket Mask
 
-* \[ \] Narcan (Naloxone) Everyone should have cheap access to this, it is cheaper if you have insurance so research your options.  
+* \[ \] Narcan (Naloxone) Everyone should have cheap access to this, it is cheaper if you have insurance so research your options.
 
 * Adhesive tape to keep gauze in place
 
