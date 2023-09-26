@@ -21,7 +21,7 @@ layout: post
 
 Better to have it and not need it than to need it and not have it.  I was actually a First Aid and Advanced First Aid instructor and after teaching all those courses, we never gave people a first aid kit list.  This list is based on the [Johns Hopkins Traveler's First-Aid Kit](https://www.hopkinsmedicine.org/health/wellness-and-prevention/travelers-firstaid-kit) and some additions that I have used or purchased while on trips.  You can fit all these items in a large zip-lock bag.  I have added a section at the bottom for Specific Travel/Car/Scouting.  I added this section because there are items that I disagree with the Johns Hopkins list as far as what I would have in my luggage on a trip I am flying off to yet I would absolutely not go on a road trip or backpacking without.
 
-On this list I have a CPR face shield and Mask.  The face shield is a small plastic sheet with a filter that allows you a barrier when performing mouth to mouth.  The Mask is a full mask with filter kit for performing mouth to mouth and is much to bulky and unnecessary for air travel.  Both require CPR training that everyone should get.  I also have Narcan, this again requires some training (or being on the phone with 911 for instructions on how to use)  Narcan can be anywhere from 100 bucks to 15 bucks with a prescription.  Everyone should have this at their disposal but it can be a lot of money for something that goes bad after a few years if not used.
+On this list, I have a CPR face shield and Mask.  The face shield is a small plastic sheet with a filter that allows you a barrier when performing mouth-to-mouth.  The Mask is a full mask with a filter kit for performing mouth-to-mouth and is much too bulky and unnecessary for air travel.  Both require CPR training that everyone should get.  I also have Narcan, this again requires some training (or being on the phone with 911 for instructions on how to use it)  Narcan can be anywhere from 100 bucks to 15 bucks with a prescription.  Everyone should have this at their disposal but it can be a lot of money for something that goes bad after a few years if not used.
 
 **Medications**
 
@@ -33,13 +33,13 @@ On this list I have a CPR face shield and Mask.  The face shield is a small plas
 
 * \[ \]Pepto Bismol Chews (The jellybean form of Pepto, is completely brilliant).
 
-* \[ \] AlcaSeltzer (or other ant acid)
+* \[ \] AlcaSeltzer (or other antacid)
 
-* \[ \] Imodium (or other antidiarrhea)
+* \[ \] Imodium (or other anti-diarrhea)
 
 * \[ \] Cough and cold medicines
 
-I keep pills in a little [aluminum screw top container](https://www.amazon.com/Hulless-Aluminum-Refillable-Containers-Container/dp/B072MC3K86/ref=sr_1_2?crid=3JUWN1483R5KW&keywords=small\+aluminum\+tins\+with\+screw\+lids&qid=1694406204&sprefix=small\+aluminum\+tins\+with\+screw\+lids%2Caps%2C152&sr=8-2) to save space.
+I keep pills in a little [aluminum screw-top container](https://www.amazon.com/Hulless-Aluminum-Refillable-Containers-Container/dp/B072MC3K86/ref=sr_1_2?crid=3JUWN1483R5KW&keywords=small\+aluminum\+tins\+with\+screw\+lids&qid=1694406204&sprefix=small\+aluminum\+tins\+with\+screw\+lids%2Caps%2C152&sr=8-2) to save space.
 
 **External First Aid**
 
@@ -49,9 +49,9 @@ I keep pills in a little [aluminum screw top container](https://www.amazon.com/H
 
 * \[ \]Band-Aids
 
-* \[ \] Gauze pads 2 - inch and 4-inch
+* \[ \] Gauze pads 2-inch and 4-inch
 
-* \[ \] Elastic wraps to wrap wrist, ankle, knee and elbow injuries (ACE Bandage)
+* \[ \] Elastic wraps to wrap wrist, ankle, knee, and elbow injuries (ACE Bandage)
 
 * \[ \] Butterfly Bandages
 
@@ -82,13 +82,13 @@ I keep pills in a little [aluminum screw top container](https://www.amazon.com/H
 * \[ \] Insect Repellent
 
 **Specific Travel / Car Kit / Scouting**\
-These are items I would not pack in luggage for trip, but would pack in a car first aid kit for when you are a distance from civilization.
+These are items I would not pack in luggage for a trip, but would pack in a car first aid kit for when you are a distance from civilization.
 
 * \[ \] Triangular bandage to wrap injuries and make an arm sling
 
 * Safety pins to fasten splints and bandages
 
-* \[ \] Guaze in rolls
+* \[ \] Gauze in rolls
 
 * \[ \] CPR Pocket Mask
 
