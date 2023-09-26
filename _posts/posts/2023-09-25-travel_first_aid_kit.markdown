@@ -1,8 +1,7 @@
 ---
 title: My Travel First Aid Kit
-date: 2023-09-17 11:48:00 -07:00
+date: 2023-09-25 11:48:00 -07:00
 permalink: "/posts/travel_first_aid_kit"
-published: false
 categories:
 - Travel
 tags:
