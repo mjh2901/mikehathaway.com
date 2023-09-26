@@ -100,4 +100,8 @@ I keep pills in a little [aluminum screw top container](https://www.amazon.com/H
 
 * Latex condoms
 
+* Tampons (double as gauze pads)
+
+* Toilet Paper (always have a roll, in a zip lock bag in your car)
+
 * Water purification tablets
