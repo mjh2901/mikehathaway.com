@@ -92,20 +92,20 @@ These are items I would not pack in luggage for a trip, but would pack in a car 
 
 * \[ \] Narcan (Naloxone) Everyone should have cheap access to this, it is cheaper if you have insurance so research your options.
 
-* Adhesive tape to keep gauze in place
+* \[ \]Adhesive tape to keep gauze in place
 
-* Scissors with rounded tips to cut tape, gauze, or clothes, if necessary (Note that this may not be allowed in your carry-on bag if traveling by air.)
+* \[ \]Scissors with rounded tips to cut tape, gauze, or clothes, if necessary (Note that this may not be allowed in your carry-on bag if traveling by air.)
 
-* Hydrogen Peroxide (get a dark travel spray bottle)
+* \[ \]Hydrogen Peroxide (get a dark travel spray bottle)
 
-* Cold Pack
+* \[ \]Cold Pack
 
-* Epinephrine auto-injector (for individuals with severe allergies)
+* \[ \]Epinephrine auto-injector (for individuals with severe allergies)
 
-* Latex condoms
+* \[ \]Latex condoms
 
-* Tampons (double as gauze pads)
+* \[ \]Tampons (double as gauze pads)
 
-* Toilet Paper (always have a roll, in a zip lock bag in your car)
+* \[ \]Toilet Paper (always have a roll, in a zip lock bag in your car)
 
-* Water purification tablets
+* \[ \]Water purification tablets
