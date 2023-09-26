@@ -15,8 +15,6 @@ bootstrap: true
 layout: post
 ---
 
-![first_aid_kit.jpg](/uploads/first_aid_kit.jpg)
-
 **My Travel First Aid Kit**
 
 Better to have it and not need it than to need it and not have it.  I was actually a First Aid and Advanced First Aid instructor and after teaching all those courses, we never gave people a first aid kit list.  This list is based on the [Johns Hopkins Traveler's First-Aid Kit](https://www.hopkinsmedicine.org/health/wellness-and-prevention/travelers-firstaid-kit) and some additions that I have used or purchased while on trips.  You can fit all these items in a large zip-lock bag.  I have added a section at the bottom for Specific Travel/Car/Scouting.  I added this section because there are items that I disagree with the Johns Hopkins list as far as what I would have in my luggage on a trip I am flying off to yet I would absolutely not go on a road trip or backpacking without.
