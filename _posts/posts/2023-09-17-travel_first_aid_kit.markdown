@@ -31,9 +31,11 @@ On this list I have a CPR face shield and Mask.  The face shield is a small plas
 
 * \[ \] Imodium (or other antidiarrhea)
 
+* \[ \] Cough and cold medicines
+
 I keep pills in a little [aluminum screw top container](https://www.amazon.com/Hulless-Aluminum-Refillable-Containers-Container/dp/B072MC3K86/ref=sr_1_2?crid=3JUWN1483R5KW&keywords=small\+aluminum\+tins\+with\+screw\+lids&qid=1694406204&sprefix=small\+aluminum\+tins\+with\+screw\+lids%2Caps%2C152&sr=8-2) to save space.
 
-**External First Ai**
+**External First Aid**
 
 * \[ \]Triple antibiotic ointment
 
@@ -65,6 +67,14 @@ I keep pills in a little [aluminum screw top container](https://www.amazon.com/H
 
 * \[ \] Hand Sanitizer or Antibacterial hand wipe
 
+* \[ \] Calamine lotion
+
+* \[ \] Sunscreen
+
+* \[ \] Aloe gel for sunburns 
+
+* \[ \] Insect Repellent
+
 **Specific Travel / Car Kit / Scouting**\
   These are items I would not pack in luggage for trip, but would pack in a car first aid kit for when you are a distance from civilization.  
 
@@ -85,3 +95,9 @@ I keep pills in a little [aluminum screw top container](https://www.amazon.com/H
 * Hydrogen Peroxide (get a dark travel spray bottle)
 
 * Cold Pack
+
+* Epinephrine auto-injector (for individuals with severe allergies)
+
+* Latex condoms
+
+* Water purification tablets
