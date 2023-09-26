@@ -8,6 +8,10 @@ tags:
 - travel
 - bag
 - packing
+excerpt: Better to have it and not need it than to need it and not have it.
+feature-img: uploads/first_aid_kit.jpg
+thumbnail: uploads/first_aid_kit.jpg
+bootstrap: true
 layout: post
 ---
 
