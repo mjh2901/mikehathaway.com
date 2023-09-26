@@ -84,7 +84,7 @@ These are items I would not pack in luggage for a trip, but would pack in a car 
 
 * \[ \] Triangular bandage to wrap injuries and make an arm sling
 
-* Safety pins to fasten splints and bandages
+* \[ \] Safety pins to fasten splints and bandages
 
 * \[ \] Gauze in rolls
 
