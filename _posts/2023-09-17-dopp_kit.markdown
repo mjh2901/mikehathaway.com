@@ -8,6 +8,9 @@ categories:
 tags:
 - packing
 - travel
+Field name: 
+feature-img: "/uploads/the-nix-company-QanhCEMlSdk-unsplash.jpg"
+thumbnail: "/uploads/the-nix-company-QanhCEMlSdk-unsplash.jpg"
 layout: post
 ---
 
