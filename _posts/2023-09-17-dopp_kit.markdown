@@ -7,8 +7,8 @@ categories:
 tags:
 - packing
 - travel
-feature-img: "/uploads/the-nix-company-QanhCEMlSdk-unsplash.jpg"
-thumbnail: "/uploads/the-nix-company-QanhCEMlSdk-unsplash.jpg"
+feature-img: "/uploads/dopp_kit.jpg"
+thumbnail: "/uploads/dopp_kit.jpg"
 layout: post
 ---
 
