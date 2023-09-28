@@ -1,6 +1,6 @@
 ---
 title: My Dopp Kit
-date: 2023-09-17 07:10:00 -07:00
+date: 2023-09-28 07:10:00 -07:00
 permalink: "/posts/dopp_kit"
 categories:
 - Travel
