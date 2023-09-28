@@ -1,6 +1,6 @@
 ---
 title: My Cruise Excursion Bag
-date: 2023-09-08 17:00:00 -07:00
+date: 2023-09-07 17:00:00 -07:00
 tags:
 - packing
 - travel
