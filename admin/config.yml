@@ -2,4 +2,14 @@
 backend:
   name: github
   branch: master
+  identity_url: "https://mikehathaway.com/.netlify/identiy"
+  gateway_url: "https://mikehathaway.com/.netlify.git"
+  squash_merges: true
+
+locations:
+  media_folder: /_uploads
+  media_library: /assets
+  collections: /collections
   
+
+site_url: https://mikehathaway.com
