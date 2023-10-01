@@ -27,7 +27,7 @@ There are items I pack that just don't seam normal, and may not be part of your 
 
 * Red Zip Ties (I don't use luggage locks they are simple to open and the TSA has master keys.  Instead, I use red zip ties.  They stand out and TSA replaces them with clear freedom ties so if my case is returned without red I know TSA or someone else has searched my luggage.  TSA also seems to be better at re-zip tying luggage than they are locking it back up.
 
-* 
+* Binoculars (Panama Canal / Alaska Cruises)
 
 Items in the below kits are not included in this packing list, make sure you create these kits and pack them
 
@@ -40,13 +40,15 @@ Items in the below kits are not included in this packing list, make sure you cre
 * [\[ \] Travel First Aid Kit](https://mikehathaway.com/posts/travel_first_aid_kit)
 
 **Documentation / Special**\
-This list goes in your airplane carry on, in you embarcation bag basically everything here stays on your person
+This list goes in your airplane carry on, in you embarkation bag basically everything here stays on your person
 
 * \[ \] Airplane tickets
 
 * \[ \] Boarding documents
 
 * \[ \] Cash
+
+* \[ \] Camera equipment
 
 * \[ \] Copy of all passport/birth certificate, credit cards (should also be on your phone)
 
@@ -55,6 +57,8 @@ This list goes in your airplane carry on, in you embarcation bag basically every
 * \[ \] Drivers License
 
 * \[ \] Ear plugs
+
+* \[ \] Entertainment devices
 
 * \[ \] Motion sickness pills / patches
 
@@ -70,11 +74,25 @@ This list goes in your airplane carry on, in you embarcation bag basically every
 
 * \[ \]Belt
 
+* \[ \] Motion Sensor Nightlight
+
+* \[ \] Portable Fan
+
 * \[ \] Sunglasses
 
 * \[ \] Lanyard for SeaPass
 
+* \[ \] Mesh Laundry Bag/s
+
+* \[ \] Post it notes
+
+* \[ \] Tide-to-Go stain stick
+
 * \[ \] Watch
+
+* \[ \] Wrinkle Release Spray
+
+* \[ \]
 
 **Active wear Cube**
 
@@ -133,6 +151,8 @@ This list goes in your airplane carry on, in you embarcation bag basically every
 * \[ \] Dress Shoes
 
 * \[ \] Hiking / Walking / Work Out
+
+* \[ \] Water Shes
 
 **Swimsuit Cube**
 
