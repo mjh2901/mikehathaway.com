@@ -22,7 +22,7 @@ So here we go
 
 There are items I pack that just don't seam normal, and may not be part of your packing list.  Consider adding some of these items on your next adventure
 
-* Red Zip Ties (I don't use luggage locks they are simple to open and the TSA has master keys.  Instead I use red zip ties.  They stand out and TSA replaces with clear, white or black zip ties so if my case is returned with those colors I know TSA has searched my luggage.  TSA also seems to be better at re-zip tying luggage than they are locking it back up.
+* Red Zip Ties (I don't use luggage locks they are simple to open and the TSA has master keys.  Instead, I use red zip ties.  They stand out and TSA replaces them with clear freedom ties so if my case is returned without red I know TSA or someone else has searched my luggage.  TSA also seems to be better at re-zip tying luggage than they are locking it back up.
 
 * 
 
@@ -30,7 +30,7 @@ Items in the below kits are not included in this packing list, make sure you cre
 
 * [Every Day Cary Bag ](https://mikehathaway.com/2023/09/08/cruise-day-bag.html)
 
-* [Ultimate Dopp Kit](https://mikehathaway.com/posts/travel_first_aid_kit)
+* [Ultimate Dopp Kit](https://mikehathaway.com/posts/dopp_kit)
 
 * [Travel First Aid Kit](  https://mikehathaway.com/posts/travel_first_aid_kit)
 
