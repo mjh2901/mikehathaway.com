@@ -2,7 +2,6 @@
 title: My Cruise Packing List
 date: 2023-10-01 09:53:00 -07:00
 permalink: "/posts/cruise_packing_list"
-published: false
 categories:
 - Travel
 tags:
@@ -91,8 +90,6 @@ This list goes in your airplane carry on, in you embarkation bag basically every
 * \[ \] Watch
 
 * \[ \] Wrinkle Release Spray
-
-* \[ \]
 
 **Active wear Cube**
 
