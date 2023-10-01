@@ -9,8 +9,8 @@ tags:
 - packing
 - travel
 except: 
-feature-img: 
-thumbnail: 
+feature-img: "/uploads/suitcases.jpg"
+thumbnail: "/uploads/suitcases.jpg"
 ---
 
 This is my cruise packing list
