@@ -8,6 +8,9 @@ categories:
 tags:
 - packing
 - travel
+except: 
+feature-img: 
+thumbnail: 
 ---
 
 This is my cruise packing list
