@@ -29,63 +29,104 @@ There are items I pack that just don't seam normal, and may not be part of your 
 
 * 
 
-Items in the below kits are not included in this packing list, make sure you create these kits
+Items in the below kits are not included in this packing list, make sure you create these kits and pack them
 
-* [Every Day Cary Bag ](https://mikehathaway.com/2023/09/08/cruise-day-bag.html)
+**Kits**
 
-* [Ultimate Dopp Kit](https://mikehathaway.com/posts/dopp_kit)
+* [\[ \] Every Day Cary Bag ](https://mikehathaway.com/2023/09/08/cruise-day-bag.html)
 
-* [Travel First Aid Kit](https://mikehathaway.com/posts/travel_first_aid_kit)
+* [\[ \] Ultimate Dopp Kit](https://mikehathaway.com/posts/dopp_kit)
 
-Embarkation Bag
+* [\[ \] Travel First Aid Kit](https://mikehathaway.com/posts/travel_first_aid_kit)
 
-Checked Bags
+**Documentation / Special**\
+This list goes in your airplane carry on, in you embarcation bag basically everything here stays on your person
 
-Accessory Cube
+* \[ \] Airplane tickets
 
-* \[ \]Baseball cat / hat
+* \[ \] Boarding documents
+
+* \[ \] Cash
+
+* \[ \] Copy of all passport/birth certificate, credit cards (should also be on your phone)
+
+* \[ \] Covid test results (if required)
+
+* \[ \] Drivers License
+
+* \[ \] Ear plugs
+
+* \[ \] Motion sickness pills / patches
+
+* \[ \] Passport / birth certificate
+
+* \[ \] Prescription Medications (all of them for entire trip)
+
+* \[ \] Vaccination card (if required)
+
+**Accessory Cube**
+
+* \[ \]Baseball cap / hat
 
 * \[ \]Belt
 
-Active wear Cube
+* \[ \] Sunglasses
+
+* \[ \] Lanyard for SeaPass
+
+* \[ \] Watch
+
+**Active wear Cube**
 
 * \[ \] Shorts (3 - 4)
 
 * \[ \] UPF 50\+ sun protection shirts
 
-Clothing Cube
+**Cabin Item Cube**
+
+* \[ \] Small Fan
+
+* \[ \] Magnetic Hooks
+
+* \[ \] USB Charger / Cables for everything
+
+* \[ \] Outlet adapter (If you stuff is not US)
+
+**Clothing Cube**
 
 * \[ \] Jeans (1 -2)
 
 * \[ \] Sweater / Sweatshirt (1)
 
-Hanging Cloths
+**Hanging Cloths**
 
 * \[ \] Buttoned Shirts (1 - 2)
 
 * \[ \] Dress Shirts (2)
 
-* \[ \] Polos (3 -- 4)
+* \[ \] Polo's (3 -- 4)
 
 * \[ \] Slacks / Khakis (1 - 2)
 
 * \[ \] Suit (1)
 
-T-shirt Cube
+* \[ \] Light / Waterproof jacket
+
+**T-shirt Cube**
 
 * \[ \] T-shirts - 1 for each day plus 2
 
-Underwear Cube
+**Underwear Cube**
 
 * \[ \] Underwear 1 for each day plus 2
 
 * \[ \] Sleepwear
 
-Sock Cube
+**Sock Cube**
 
 * \[ \] Every day plus 3
 
-Shoes
+**Shoes**
 
 * \[ \]Sandals / flip flops
 
@@ -93,10 +134,16 @@ Shoes
 
 * \[ \] Hiking / Walking / Work Out
 
-Swimsuit Cube
+**Swimsuit Cube**
 
 * \[ \] Swimsuits (2 - 3)
 
-* \[ \] Rashguards/swim shirt (3 - 4)
+* \[ \] Rash guards/swim shirts (3 - 4)
 
-* \[ \] 
+* \[ \] Waterproof phone carrier
+
+* \[ \] Towel clips
+
+**Misc**
+
+* \[ \] Dry Bag
