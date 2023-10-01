@@ -47,11 +47,11 @@ Accessory Cube
 
 * \[ \]Belt
 
-Activewear Cube
+Active wear Cube
 
 * \[ \] Shorts (3 - 4)
 
-* \[ \] UPF 50\+ sun protetion shirts
+* \[ \] UPF 50\+ sun protection shirts
 
 Clothing Cube
 
@@ -71,11 +71,11 @@ Hanging Cloths
 
 * \[ \] Suit (1)
 
-Tshirt Cube
+T-shirt Cube
 
 * \[ \] T-shirts - 1 for each day plus 2
 
-Underewar Cube
+Underwear Cube
 
 * \[ \] Underwear 1 for each day plus 2
 
@@ -99,4 +99,4 @@ Swimsuit Cube
 
 * \[ \] Rashguards/swim shirt (3 - 4)
 
-* \[ \] \
+* \[ \] 
