@@ -32,16 +32,68 @@ Items in the below kits are not included in this packing list, make sure you cre
 
 * [Ultimate Dopp Kit](https://mikehathaway.com/posts/dopp_kit)
 
-* [Travel First Aid Kit](  https://mikehathaway.com/posts/travel_first_aid_kit)
+* [Travel First Aid Kit](https://mikehathaway.com/posts/travel_first_aid_kit)
 
 Embarkation Bag
 
 Checked Bags
 
-Underwear Cube
+Accessory Cube
+
+* \[ \]Baseball cat / hat
+
+* \[ \]Belt
 
 Activewear Cube
 
+* \[ \] Shorts (3 - 4)
+
+* \[ \] UPF 50\+ sun protetion shirts
+
+Clothing Cube
+
+* \[ \] Jeans (1 -2)
+
+* \[ \] Sweater / Sweatshirt (1)
+
+Hanging Cloths
+
+* \[ \] Buttoned Shirts (1 - 2)
+
+* \[ \] Dress Shirts (2)
+
+* \[ \] Polos (3 -- 4)
+
+* \[ \] Slacks / Khakis (1 - 2)
+
+* \[ \] Suit (1)
+
 Tshirt Cube
 
-S
+* \[ \] T-shirts - 1 for each day plus 2
+
+Underewar Cube
+
+* \[ \] Underwear 1 for each day plus 2
+
+* \[ \] Sleepwear
+
+Sock Cube
+
+* \[ \] Every day plus 3
+
+Shoes
+
+* \[ \]Sandals / flip flops
+
+* \[ \] Dress Shoes
+
+* \[ \] Hiking / Walking / Work Out
+
+Swimsuit Cube
+
+* \[ \] Swimsuits (2 - 3)
+
+* \[ \] Rashguards/swim shirt (3 - 4)
+
+* \[ \] \
