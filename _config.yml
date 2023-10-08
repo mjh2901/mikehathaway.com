@@ -30,6 +30,8 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-feed
+- jekyll-admin
+- jekyll-include-cache
 katex: true
 mermaid: default
 google_analytics: 

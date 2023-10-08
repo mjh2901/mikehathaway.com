@@ -1,0 +1,8 @@
+version: "3"
+services:
+    jekyll:
+        image: bretfisher/jekyll-serve
+        volumes:
+          - .:/site
+        ports:
+          - '4002:4000'
