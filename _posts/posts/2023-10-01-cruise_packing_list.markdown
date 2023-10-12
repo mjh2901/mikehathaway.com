@@ -43,11 +43,17 @@ This list goes in your airplane carry on, in you embarkation bag basically every
 
 * \[ \] Airplane tickets
 
+* \[ \] Battery Pack for charging entertainment devices
+
 * \[ \] Boarding documents
 
 * \[ \] Cash
 
 * \[ \] Camera equipment
+
+* \[ \] Charging Cables for devices
+
+* \[ \] Charger (Wall plug) for devices
 
 * \[ \] Copy of all passport/birth certificate, credit cards (should also be on your phone)
 
