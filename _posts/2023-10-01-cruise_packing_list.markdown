@@ -51,9 +51,9 @@ This list goes in your airplane carry on, in you embarkation bag basically every
 
 * \[ \] Camera equipment
 
-* \[ \] Charging Cables for devices
+* \[ \] Charging Cables for entertainment devices
 
-* \[ \] Charger (Wall plug) for devices
+* \[ \] Charger (Wall plug) for entertainment devices
 
 * \[ \] Copy of all passport/birth certificate, credit cards (should also be on your phone)
 
