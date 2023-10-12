@@ -149,7 +149,7 @@ This list goes in your airplane carry on, in you embarkation bag basically every
 
 * \[ \] Hiking / Walking / Work Out
 
-* \[ \] Water Shes
+* \[ \] Water Shoes
 
 **Swimsuit Cube**
 
