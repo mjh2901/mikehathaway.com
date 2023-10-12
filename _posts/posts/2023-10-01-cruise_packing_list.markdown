@@ -32,7 +32,7 @@ Items in the below kits are not included in this packing list, make sure you cre
 
 **Kits**
 
-* [\[ \] Every Day Cary Bag ](https://mikehathaway.com/2023/09/08/cruise-day-bag.html)
+* [\[ \] Every Day Cary Bag ](https://mikehathaway.com/2023/09/07/cruise-day-bag.html)
 
 * [\[ \] Ultimate Dopp Kit](https://mikehathaway.com/posts/dopp_kit)
 
