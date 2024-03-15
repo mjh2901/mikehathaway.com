@@ -23,19 +23,21 @@ layout: post
 
   First, a firearm: My car is parked in a school parking lot in the state of California, and a secured firearm in my vehicle is a felony, and if someone found out instant termination. While no case law on felony involves a school employee, there have been terminations even in union environments.
   
-  Second, two to five thousand dollars in cash. If you are bugging out even in a car due to a disaster, it is safe to assume electronic money access may be down in the area. You need enough paper money to purchase gas or food at inflated prices if traveling to safety. I am not keeping that in my car in a school parking lot or any Parking lot in California.
+  Second, two to five thousand dollars in cash. If you are bugging out even in a car due to a disaster, it is safe to assume electronic money access may be down in the area. You need enough paper money to purchase gas or food at inflated prices. I am not keeping that in my car in a school parking lot or any Parking lot in California.
 
 **What is my bug-out bag?**
-   My bag is an old, comfortable backpack stored in a Pelican Air 615 case in the back of my car. The bag is not packed, instead I have "kits" in the pelican case that can be quickly grabbed and tossed in the bag to hike away. This is done for two reasons. First, I keep way more stuff in the case than I plan to walk away with, and Second, I want to force myself to slow down and think for a few minutes about what I need to walk away. There is a great saying in emergency work: "Slow is Smooth, and Smooth is fast". I may need to return to the office, grab something I forgot, or fill up my hydration pack. Forcing myself to add a few minutes of thinking before leaving will pay off later.
+   My bag is an old, comfortable backpack stored in a Pelican Air 615 case in the back of my car. The bag is not packed, instead I have "kits" in the pelican case that can be quickly grabbed and tossed in the bag to hike away. This is done for two reasons. First, I keep way more stuff in the case than I plan to walk away with, and Second, I want to force myself to slow down and think for a few minutes about what I need to walk away. There is a great saying in emergency work: "Slow is Smooth, and Smooth is fast." I may need to return to the office, grab something I forgot, or fill up my hydration pack. Forcing myself to add a few minutes of thinking before leaving will pay off later.
 
 **What is in my bag?**
-   My system is all modular kits, many kits I take when traveling.  Its much more efficient to just keep this in the car for emergencies than take them apart and store between vacations.
+   My system consists of modular kits, which I use when traveling. It's much more efficient to keep these in the car for emergencies than to take them apart and store them between vacations only to put them back together for the next trip.
 
    Pelican Air 1615 (Holds everything)
    Back Pack
-   Hydration Pack ( I can take just this or pull the hydration part and put it in my Back Pack which has a spot for hydration systems.
+   Hydration Pack ( I can take just this or pull the hydration part and put it in my backpack, which has a spot for hydration systems.
 
-   [Dopp Kit](https://mikehathaway.com/posts/dopp_kit) (doubles for use at work)
+**What is the case?**
+
+   [Dopp Kit](https://mikehathaway.com/posts/dopp_kit) (doubles for use at work If I am walking away I am just grabbing soap, toothpaste, and toothbrush)
 
    [First Aid Kit](https://mikehathaway.com/posts/travel_first_aid_kit) (never be without)
 
