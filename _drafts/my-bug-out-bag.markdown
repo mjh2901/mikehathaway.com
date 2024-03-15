@@ -1,12 +1,14 @@
 ---
 title: My Bug Out Bag
 date: 2024-03-14 08:37:00 -07:00
+permalink: "/posts/bug-oug-bag"
 categories:
 - Travel
 tags:
 - Bug Out Bag
 - Packing
 - Survival
+layout: post
 ---
 
    Bug-out bags are constantly discussed on the Internet and YouTube. Fema recommends being ready to survive for three days without modern infrastructure in case of a natural disaster. The zombie Acropolis bag is the other side of bug-out bags, which usually includes a firearm.  
