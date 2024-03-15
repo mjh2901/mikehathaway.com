@@ -1,7 +1,6 @@
 ---
 title: My Bug Out Bag
 date: 2024-03-14 08:37:00 -07:00
-published: false
 categories:
 - Travel
 tags:
