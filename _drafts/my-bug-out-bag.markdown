@@ -15,13 +15,15 @@ layout: post
 
    A tech podcaster (Patric Norton) did his urban bug-out bag years ago. The video is long gone, but it was a much more realistic take. Instead of a bug-out bag, his was a get-home bag. The claim was that his family bug-out bag was more about throwing food, family, and camping gear in an older (IE, no computer) vehicle and driving away from the Bay Area. But to get to that point, he needed to be able to hike from San Francisco to the East Bay. My bug-out bag is a take on this idea; I need to get from Sunnyvale to Dublin 40 miles. Or drive away to a known meeting location that my family will also head toward, which is an entire state away.
 
+   My survival set is different from those pre-purcahsed kits.  I have substituted in a lot of gear I just have around the house.  If you do any camping you probably have half the needed gear and in reality just need to fill some gaps.  More importantly most of this stuff gets used throughout the year so anything that does not age well is used and replaced naturally.  The last thing you need is an emergency kit that is so old everything falls apart.  In total my kit is extremely expensive but once you remove everything that I already had its about a hundred bucks worth of extra gear, much of which is water filters and a few other odds and ends. 
+
 **Where is my bag ?**
    In my daily commute vehicle.
 
 **What is not in my bag?**
    Two items are discussed in almost every bug-out bag video.  
 
-  First, a firearm: My car is parked in a school parking lot in the state of California, and a secured firearm in my vehicle is a felony, and if someone found out instant termination. While no case law on felony involves a school employee, there have been terminations even in union environments.
+  First, a firearm: My car is parked in a school parking lot in the state of California.  A secured firearm in my vehicle is a felony, and if someone found out instant termination. While no case law on felony involves a school employee, there have been terminations even in union environments.
   
   Second, two to five thousand dollars in cash. If you are bugging out even in a car due to a disaster, it is safe to assume electronic money access may be down in the area. You need enough paper money to purchase gas or food at inflated prices. I am not keeping that in my car in a school parking lot or any Parking lot in California.
 
@@ -41,20 +43,56 @@ layout: post
 
    [First Aid Kit](https://mikehathaway.com/posts/travel_first_aid_kit) (never be without)
 
-**Clothing Bag**
-This should all fit easily in one of those packing cubes. Again, I would not hike away with all of this; it just covers just about every possible situation.
+**Clothing Kit**
+This should all fit easily in a packing cube. Again, I would not hike away with all of this.  The list covers just about every possible situation at work and on the side of the road.
 
 * Work Shirt (this is for emergencies at work)
 * Work Pants (emergencies at work)
 * Pair of Microfiber Underwear (washable and quickly air dry)
-* Swim Suit (doubles as underwear and or hiking shorts. Guys get a square leg or jammer style)
+* Swim Suit (doubles as underwear and or hiking shorts. Guys get a square leg or jammer style hiking in a traditional swimsuit is not pleasant)
 * Socks (2 pairs keep your feet dry)
 * Hiking shoes (unless that's what you wear at work)
 * Shorts
 * Jeans/Sweat Pants/Leggings
 * Gloves (not work gloves)
 
+**Emergency Supplies**
 
+**Water Kit**
+
+* Good water bottle
+* Collapsible Canteans (bring your total up to a gal)
+* Water Filter (I use the Sawyer Mini Water Filter)
+* Water purification tablets (If you do not want to purchase a filter)
+* 4-way sillcock key (or utility key): This opens every hose bib and building lockout case in urban environments.
+
+**Shelter Kit**
+
+* Survival Blanket (UST Survival BLanket 2.0)
+* Sleeping Bag (in the car) or a Thermal Bivvy, a heavy-duty survival blanket that works as a sleeping bag.
+
+Emergency Radio
+Emergency Survival Whistle
+
+Tool Kit
+* Matches, self-strike in a waterproof kit
+* Lighter (I'm lazy, but this needs to be in addition to just in case it loses its charge while stored)
+* Heavy Duty Garbage Bags
+* Work Gloves
+* Respirator mask
+* Good flashlight with extra batteries (not stored in the light)
+* Leatherman / Multi-tool
+* Paracord (100 feet)
+* Duct Tape
+
+Emergency Radio
+Emergency Survival Whistle
+
+**Special Items**
+
+* Folding Shovel
+* Knife (I have an old Survival K-bar from the 80's that has been sharpened and placed in a new safety sheet)
+* Small Axe
 
 
 
