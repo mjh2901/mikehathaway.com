@@ -94,5 +94,6 @@ Emergency Survival Whistle
 * Knife (I have an old Survival K-bar from the 80's that has been sharpened and placed in a new safety sheet)
 * Small Axe
 
+**Food**
 
 
