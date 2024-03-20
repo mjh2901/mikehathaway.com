@@ -8,6 +8,8 @@ tags:
 - Bug Out Bag
 - Packing
 - Survival
+feature-img: "/uploads/bug_out_bag.png"
+thumbnail: "/uploads/bug_out_bag.png"
 layout: post
 ---
 
