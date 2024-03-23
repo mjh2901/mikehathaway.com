@@ -121,6 +121,6 @@ If you are fleeing fire, flood, Earthquake, or Florida, you will probably need t
 
 Everything that has an expiration date needs to be noted and rotated. I recomend a 3 x 5 card listing item and expiration date on the outside of the kit. One of the advantages of using your standard travel stuff is you will go through it whenever you pack for a trip. Since My setup is in my luggage, I reset and rotate everything when I return from a vacation. It only takes a few extra minutes to unpack.
 
-Medications need to be replaced at least every year.
+**Medications** need to be replaced at least every year.
 
-Food, even those emergency rations, have expiration dates.
+**Food** even those emergency rations, have expiration dates.
