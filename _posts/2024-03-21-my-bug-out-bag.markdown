@@ -1,7 +1,7 @@
 ---
 title: My Bug Out Bag
 date: '2024-03-21 08:37:00 -0700'
-permalink: "/posts/bug-oug-bag"
+permalink: "/posts/bug-out-bag"
 categories:
 - Travel
 tags:
@@ -19,7 +19,7 @@ Bugout bags are constantly discussed on the Internet and YouTube. Fema recommend
 
    My survival set is different from those pre-purchased kits. I have substituted in a lot of gear around the house. If you do any camping, you probably have half the needed gear and, in reality, need to fill some gaps. Most of this stuff gets used throughout the year, so anything that does not age well is used and replaced naturally. The last thing you need is an emergency kit that is so old everything falls apart. While my kit is expensive, once you remove everything I already owned, it's about a hundred bucks worth of extra gear, most of which are water filters and a few other odds and ends. 
 
-#### **Where is my bag ?** 
+### **Where is my bag ?** 
 
    In my daily commute vehicle.
 
@@ -71,6 +71,12 @@ This should all fit easily in a packing cube. Again, I would not hike away with 
 * Emergency Radio
 * Emergency Survival Whistle
 
+#### **Electronics Kit**
+* Power Bank (Noco JB40, jump starts cars and can charge a phone 10 or 15 times)
+* USB to Lightning cable (iPhone)
+* USB to USB-C (Most new electronics)
+* USB to MicroUSB (Most old electronics
+* USB-C to USB-C (charge stuff from larger laptop battery)
 #### **Water Kit**
 
 * Good water bottle
