@@ -1,37 +1,35 @@
-# For the Icons on the footer of the website
-# For the Share buttons at the end of the articles, use the "social.yml"
-behance:
-bitbucket:
-calendly:
-dribbble:
+behance: null
+bitbucket: null
+calendly: mikehathawaycom
+dribbble: null
 facebook: mikehathaway
-flickr:
+flickr: null
 github: mjh2901
-gitlab:
-google-scholar:   # e.g. "WXAAOb0AAAAJ"
-instagram:
-hacker-news:
-keybase:
-linkedin:
-mail: "mike@mikehathaway.com" # e.g. "sam@mail.com"
-map:              # e.g. "34.0886/-118.3191"
-mastodon:         # e.g. "fostodon.org/@sam"
-matrix:           # e.g. "@sam:matrix.org"
-medium:
-patreon:
-phone:            # e.g. "+11111111111"
-pinterest:
-reddit:
-soundcloud:
-sms:              # e.g. "+11111111111"
-stack-exchange:   # e.g. "123456789"
-stack-overflow:   # e.g. "123456789"
-steam:
-telegram:
-tumblr:
-twitch:
-twitter:
-vimeo:
-vk:
-wordpress:
-youtube:          # e.g. "UCqECaJ8Gagnn7YCbPEzWH6g"
+gitlab: null
+google-scholar: null
+instagram: null
+hacker-news: null
+keybase: null
+linkedin: hathawaymike
+mail: mike@mikehathaway.com
+map: null
+mastodon: null
+matrix: null
+medium: null
+patreon: null
+phone: null
+pinterest: null
+reddit: mjh2901
+soundcloud: null
+sms: null
+stack-exchange: null
+stack-overflow: null
+steam: mjh2901
+telegram: null
+tumblr: null
+twitch: null
+twitter: mikehathaway
+vimeo: null
+vk: null
+wordpress: null
+youtube: mikehathaway2842

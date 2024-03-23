@@ -1,15 +1,16 @@
 ---
 title: My Cruise Packing List
-date: 2023-10-01 07:53:00 -07:00
+date: '2023-10-01 07:53:00 -0700'
 permalink: "/posts/cruise_packing_list"
 categories:
 - Travel
 tags:
 - packing
 - travel
-except: 
+except: null
 feature-img: "/uploads/suitcases.jpg"
 thumbnail: "/uploads/suitcases.jpg"
+layout: post
 ---
 
 This is my cruise packing list
