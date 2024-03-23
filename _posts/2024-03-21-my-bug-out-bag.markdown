@@ -123,4 +123,4 @@ Everything that has an expiration date needs to be noted and rotated. I recomend
 
 **Medications** Need to be replaced at least every year.
 
-**Food** Even those emergency rations, have expiration dates..
+**Food** Even those emergency rations, have expiration dates.
