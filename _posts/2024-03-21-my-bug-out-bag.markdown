@@ -1,6 +1,6 @@
 ---
 title: My Bug Out Bag
-date: '2024-03-21 08:37:00 -0700'
+date: 2024-03-21 08:37:00 -07:00
 permalink: "/posts/bug-out-bag"
 categories:
 - Travel
