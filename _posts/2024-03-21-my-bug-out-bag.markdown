@@ -13,6 +13,8 @@ thumbnail: "/uploads/bug_out_bag.png"
 layout: post
 ---
 
+## **My Bug Out Bag**
+
 Bugout bags are constantly discussed on the Internet and YouTube. Fema recommends being ready to survive for three days without modern infrastructure in a natural disaster. The zombie Acropolis bag is the other side of bug-out bags, which usually includes a firearm.  
 
    A tech podcaster (Patric Norton) did his urban bug-out bag years ago. The video is long gone, but it was a much more realistic take. Instead of a bug-out bag, his was a get-home bag. The claim was that his family bug-out bag was more about throwing food, family, and camping gear in an older (IE, no computer) vehicle and driving away from the Bay Area. But to get to that point, he needed to be able to hike from San Francisco to the East Bay. My bug-out bag is a take on this idea; I need to get from Sunnyvale to Dublin 40 miles. Or drive away to a known meeting location that my family will also head toward, which is an entire state away.
