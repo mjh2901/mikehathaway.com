@@ -1,6 +1,8 @@
-version: "3"
 services:
     jekyll:
+        container_name: dev_mikehathaway_com
+        network_mode: bridge
+        restart: unless-stopped
         image: bretfisher/jekyll-serve
         volumes:
           - .:/site
