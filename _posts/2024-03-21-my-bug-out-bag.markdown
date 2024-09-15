@@ -1,6 +1,6 @@
 ---
 title: My Bug Out Bag
-date: 2024-03-21 08:37:00 -07:00
+date: '2024-03-21 08:37:00 -0700'
 permalink: "/posts/bug-out-bag"
 categories:
 - Travel
@@ -82,7 +82,7 @@ This should all fit easily in a packing cube. Again, I would not hike away with 
 #### **Water Kit**
 
 * Good water bottle
-* Collapsible Canteans (bring your total up to a gal)
+* Collapsible Canteans (bring your total up to a gallon)
 * Water Filter (I use the Sawyer Mini Water Filter)
 * Water purification tablets (If you do not want to purchase a filter)
 * 4-way sillcock key (or utility key): This opens every hose bib and building water lockout cabinet in urban environments.
