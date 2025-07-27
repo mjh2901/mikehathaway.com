@@ -1,10 +1,12 @@
+version: "3.8"
+
 services:
-    jekyll:
-        container_name: dev_mikehathaway_com
-        network_mode: bridge
-        restart: unless-stopped
-        image: bretfisher/jekyll-serve
-        volumes:
-          - .:/site
-        ports:
-          - '4002:4000'
+  jekyll:
+    image: bretfisher/jekyll-serve
+    container_name: jekyll-site
+    ports:
+      - "4002:4000"
+    volumes:
+      - /root/dev.mikehathaway.com:/site
+    restart: always
+
