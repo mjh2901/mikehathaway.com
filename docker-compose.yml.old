@@ -1,9 +1,0 @@
-services:
-  jekyll:
-    image: bretfisher/jekyll-serve
-    container_name: dev.mikehathaway.com
-    ports:
-      - "4002:4000"
-    volumes:
-      - .:/site
-    restart: always

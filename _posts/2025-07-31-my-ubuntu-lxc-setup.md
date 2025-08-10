@@ -2,7 +2,9 @@
 title: My Ubuntu LXC Setup
 date: '2025-07-31 01:34:38 +0000'
 tags:
-- scripts\n  - automation\n  - development\n
+- scripts
+- automation
+- development
 layout: post
 excerpt: I just run the script and bam the container is exactly the way I want it
 feature-img: "/assets/img/feature-img/default.png"
