@@ -9,6 +9,7 @@ feature-img: /assets/img/feature-img/default.png
 thumbnail: /assets/img/feature-img/default.png
 bootstrap: true
 published: false
+cront test run: true
 ---
 # Why Run Docker completely from Compose when Portainer exists?
 
