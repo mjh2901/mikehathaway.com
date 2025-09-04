@@ -37,3 +37,6 @@ test/*
 Gemfile
 Gemfile.lock
 autocommit.sh
+
+# Log File
+autocommit.log
