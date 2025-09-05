@@ -39,4 +39,4 @@ Gemfile.lock
 autocommit.sh
 
 # Log File
-autocommit.log
+autocommit.sh.log
