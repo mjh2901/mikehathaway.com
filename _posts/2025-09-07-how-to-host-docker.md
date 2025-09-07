@@ -1,5 +1,5 @@
 ---
-title: "How to host Doccker"
+title: "How to host Docker"
 date: '2025-09-07 08:26:48 -0700'
 tags:
   - self hosted\n  - docker\n  - ubuntu\n  - linux\n  - howto\n
