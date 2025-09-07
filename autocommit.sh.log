@@ -1404,3 +1404,10 @@ To https://github.com/mjh2901/mikehathaway.com.git
    9136f94..022673b  master -> master
 🚀 Changes committed and pushed.
 autocommit.sh ran Sun Sep  7 08:15:02 PDT 2025
+[master eacfab8] Auto Commit
+ 2 files changed, 26 insertions(+)
+ create mode 100644 _posts/2025-09-07-how-to-host-docker.md
+To https://github.com/mjh2901/mikehathaway.com.git
+   022673b..eacfab8  master -> master
+🚀 Changes committed and pushed.
+autocommit.sh ran Sun Sep  7 08:30:02 PDT 2025
