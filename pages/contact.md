@@ -4,8 +4,12 @@ permalink: "/contact/"
 layout: page
 feature-img: assets/img/feature-img/phone.jpg
 ---
+# Find My Code
+
+* [GitHub](https://github.com/mjh2901)
 
 # Contact Mike
+
 ## Here's how to reach me!
 
 - [Email](mailto:mikehathaway.com)

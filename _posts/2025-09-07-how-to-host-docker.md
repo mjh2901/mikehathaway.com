@@ -1,19 +1,16 @@
 ---
-title: "How to host Docker"
-date: '2025-09-07 08:26:48 -0700'
+title: "How I host docker"
+date: '2025-09-02 12:19:23 -0700'
 tags:
-  - self hosted
   - docker
-  - ubuntu
-  - linux
-  - howto
-
+  - server
+  - code
 layout: post
-excerpt: I keep running around in circles with docker hosting.  Mac OS X, Ubuntu, REHL, Docker in an LXC, Docker in a VM, bare metal.  What is the perfect setup?
+excerpt: Host docker in an easy to setup and repeat manor. 
 feature-img: /assets/img/feature-img/dock.png
 thumbnail: /assets/img/feature-img/dock.png
 bootstrap: true
-published: false
+published: true
 ---
 # How to Host Docker
 
@@ -23,3 +20,47 @@ Instead of telling you how to setup a server for docker, I am posting a script t
 
 Here is the [script](https://github.com/mjh2901/ubuntu_docker_setup.githttps:/)
 https://github.com/mjh2901/ubuntu_docker_setup.git
+
+How do you use the script?
+
+Setup an Ubuntu LTS server, or an Ubuntu LTS LXC container.
+
+Download the script
+
+```
+git clone https://github.com/mjh2901/ubuntu_docker_setup.git
+```
+
+If the git clone command failes you most likely just need to install git.  Then try the git clone command again.
+
+```
+sudo apt-get install git
+```
+
+Enter the directory
+
+```
+cd ubuntu_docker_setup
+```
+
+Make the script executable
+
+```
+chmod u+x ubuntu_docker_setup.sh
+```
+
+Run the script
+
+```
+./ubuntu_docker_setup.sh
+```
+
+Watch the magic!
+
+When its done the script will give you the web address of portainer so you can go straight in and start configuring things.  You can also go look at your docker setup in the docker folder by going to users docker directory.
+
+```
+cd ~/docker
+```
+
+Go set up a machine and take control of docker.
