@@ -40,3 +40,4 @@ autocommit.sh
 
 # Log File
 /autocommit.sh.log
+*.log
