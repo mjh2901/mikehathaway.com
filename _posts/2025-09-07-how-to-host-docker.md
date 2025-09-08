@@ -18,7 +18,7 @@ I have hosted a lot of stuff on a lot of system.  Over the years of course I set
 
 Instead of telling you how to setup a server for docker, I am posting a script to setup a server for docker.  ubuntu_docker_setup.sh.  Copy it onto server on your first login and run it!  The script installs neofetch because I like the server telling me what it is when I log in.  Docker gets installed and portainer to manage docker.  Not only does it install portainer the script creates a docker directory for the various docker containers a folder inside that directory for portainer and builds a docker-compose.yml for portainer then stands up portainer using docker compose.  So by using the script you are all setup with an example of how to manage docker with code instead of trying to do everything with portainer or trying to launch containers with the docker command.
 
-Here is the [script](https://github.com/mjh2901/ubuntu_docker_setup.githttps:/)
+Here is the [script](https://github.com/mjh2901/ubuntu_docker_setup.git)
 https://github.com/mjh2901/ubuntu_docker_setup.git
 
 How do you use the script?
